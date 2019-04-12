@@ -6795,7 +6795,8 @@
       "res-bleed": "14",
       "res-curse": "18",
       "description": "Anklets of Gwyn, Lord of Cinder, who linked\nthe First Flame.\n\nLord Gwyn, bearer of the ultimate soul,\ndivided that power among his clan before\nlinking the flame. When he departed, he\nleft only with his greatsword, his garb,\nand the crown, now bereft of power.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/28/Anklet_of_the_Great_Lord.png/revision/latest?cb=20120929092902"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/28/Anklet_of_the_Great_Lord.png/revision/latest?cb=20120929092902",
+      "poise": " 0.0\n"
     },
     {
       "name": "Antiquated Dress",
@@ -6813,7 +6814,8 @@
       "res-bleed": "14",
       "res-curse": "26",
       "description": "A dress from the ancient fallen land of\nOolacile. Its ivory-colored silk features\nelaborate embroidery and is imbued with\nancient magic power.\n\nOne cannot expect any physical protection\nfrom this garment, as it was not meant to\nbe worn in battle.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/45/Antiquated_Dress.png/revision/latest?cb=20160526200647"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/45/Antiquated_Dress.png/revision/latest?cb=20160526200647",
+      "poise": " 0.0\n"
     },
     {
       "name": "Antiquated Gloves",
@@ -6831,7 +6833,8 @@
       "res-bleed": "8",
       "res-curse": "16",
       "description": "Gloves from the ancient fallen land of\nOolacile. Their ivory-colored silk features\nelaborate embroidery and are imbued with\nancient magic power.\n\nOne cannot expect any physical protection\nfrom these, as they were not meant to be worn\nin battle.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/19/Antiquated_Gloves.png/revision/latest?cb=20160526200642"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/19/Antiquated_Gloves.png/revision/latest?cb=20160526200642",
+      "poise": " 0.0\n"
     },
     {
       "name": "Antiquated Skirt",
@@ -6849,7 +6852,8 @@
       "res-bleed": "20",
       "res-curse": "52",
       "description": "A skirt from the ancient fallen land of\nOolacile. Its ivory-colored silk features\nelaborate embroidery and is imbued with\nancient magic power.\n\nOne cannot expect any physical protection\nfrom this garment, as it was not meant to\nbe worn in battle.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/37/Antiquated_Skirt.png/revision/latest?cb=20160526200636"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/37/Antiquated_Skirt.png/revision/latest?cb=20160526200636",
+      "poise": " 0.0\n"
     },
     {
       "name": "Armor of Thorns",
@@ -6867,7 +6871,8 @@
       "res-bleed": "26",
       "res-curse": "0",
       "description": "Armor of Kirk, Knight of Thorns and notorious\nmember of the Darkwraiths. A dense patch of\nthorns grows from its surface.\n\nIt is a fitting item for the murderous Kirk,\nfor by simply wearing it and rolling, one can\ndamage enemies.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1c/Armor_of_Thorns.png/revision/latest?cb=20121009030956"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1c/Armor_of_Thorns.png/revision/latest?cb=20121009030956",
+      "poise": " 16.0\n"
     },
     {
       "name": "Armor of the Glorious",
@@ -6885,7 +6890,8 @@
       "res-bleed": "28",
       "res-curse": "24",
       "description": "Strange armor from the ancient land of Zena,\nbirthplace of the curious dealer Domhnall.\n\nThe many medals are believed to symbolize\nglory.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/95/Armor_of_the_Glorious.png/revision/latest?cb=20121009025925"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/95/Armor_of_the_Glorious.png/revision/latest?cb=20121009025925",
+      "poise": " 20.0\n"
     },
     {
       "name": "Armor of the Sun",
@@ -6903,7 +6909,8 @@
       "res-bleed": "23",
       "res-curse": "10",
       "description": "Armor of Solaire of Astora, Knight of\nSunlight. The large holy symbol of the Sun,\nwhile powerless, was painted by Solaire himself.\n\nSolaire's incredible prowess must have\ncome from rigorous training alone, for\nhis equipment exhibits no special traits.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c3/Armor_of_the_Sun.png/revision/latest?cb=20160526200458"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c3/Armor_of_the_Sun.png/revision/latest?cb=20160526200458",
+      "poise": " 16.0\n"
     },
     {
       "name": "Balder Armor",
@@ -6921,7 +6928,8 @@
       "res-bleed": "20",
       "res-curse": "0",
       "description": "Armor worn by the knights of the ancient\nkingdom of Balder. It is made from thick\niron plates.\n\nBalder was the homeland of the Knight\nKing Rendal, but it came to ruin after a\ngreat many Undead were spawned.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/26/Balder_Armor.png/revision/latest?cb=20121009025926"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/26/Balder_Armor.png/revision/latest?cb=20121009025926",
+      "poise": " 16.0\n"
     },
     {
       "name": "Balder Gauntlets",
@@ -6939,7 +6947,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "Gauntlets worn by the knights of the ancient\nkingdom of Balder. They are made from thick\niron plates.\n\nBalder was the homeland of the Knight\nKing Rendal, but it came to ruin after a\ngreat many Undead were spawned.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Balder_Gauntlets.png/revision/latest?cb=20121009025926"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Balder_Gauntlets.png/revision/latest?cb=20121009025926",
+      "poise": " 5.0\n"
     },
     {
       "name": "Balder Helm",
@@ -6957,7 +6966,8 @@
       "res-bleed": "8",
       "res-curse": "0",
       "description": "Helm worn by the knights of the ancient\nkingdom of Balder. It is made from thick\niron plates.\n\nBalder was the homeland of the Knight\nKing Rendal, but it came to ruin after a\ngreat many Undead were spawned.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/5a/Balder_Helm.png/revision/latest?cb=20121009025926"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/5a/Balder_Helm.png/revision/latest?cb=20121009025926",
+      "poise": " 6.0\n"
     },
     {
       "name": "Balder Leggings",
@@ -6975,7 +6985,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Leggings worn by the knights of the ancient\nkingdom of Balder. They are made from thick\niron plates.\n\nBalder was the homeland of the Knight\nKing Rendal, but it came to ruin after a\ngreat many Undead were spawned.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8b/Balder_Leggings.png/revision/latest?cb=20121009025927"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8b/Balder_Leggings.png/revision/latest?cb=20121009025927",
+      "poise": " 9.0\n"
     },
     {
       "name": "Big Hat",
@@ -6993,7 +7004,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Gigantic hat worn by the great sorcerer\nLogan. It completely hid his face, which led\nto his nickname \"Big Hat.\"\n\nFamously antisocial, Logan used it to block\nout noise and people's stares so he could\nfocus on his own thoughts, but it does not\npossess any special magic powers.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9c/Big_Hat.png/revision/latest?cb=20120929092541"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9c/Big_Hat.png/revision/latest?cb=20120929092541",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Cleric Robe",
@@ -7011,7 +7023,8 @@
       "res-bleed": "22",
       "res-curse": "13",
       "description": "Robe worn by pardoners serving Velka,\nthe Goddess of Sin.\n\nThe pardoners' attire is uniformly black in\ncolor and said to be imbued with Velka's\nmystical power, which provides resistance\nagainst all manner of magic.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1f/Black_Cleric_Robe.png/revision/latest?cb=20120929092542"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1f/Black_Cleric_Robe.png/revision/latest?cb=20120929092542",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Iron Armor",
@@ -7029,7 +7042,8 @@
       "res-bleed": "43",
       "res-curse": "13",
       "description": "Armor of Black Iron Tarkus, a knight\nknown for his great strength.\n\nBuilt of a special black iron and\nproviding strong defense, notably\nagainst fire, but so terribly heavy to be\nunwieldy to all but Tarkus himself.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2b/Black_Iron_Armor.png/revision/latest?cb=20121012081857"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2b/Black_Iron_Armor.png/revision/latest?cb=20121012081857",
+      "poise": " 31.0\n"
     },
     {
       "name": "Black Iron Gauntlets",
@@ -7047,7 +7061,8 @@
       "res-bleed": "25",
       "res-curse": "8",
       "description": "Gauntlets of Black Iron Tarkus, a knight\nknown for his great strength.\n\nBuilt of a special black iron and\nproviding strong defense, notably\nagainst fire, but so terribly heavy to be\nunwieldy to all but Tarkus himself.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e6/Black_Iron_Gauntlets.png/revision/latest?cb=20121012081857"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e6/Black_Iron_Gauntlets.png/revision/latest?cb=20121012081857",
+      "poise": " 18.0\n"
     },
     {
       "name": "Black Iron Helm",
@@ -7065,7 +7080,8 @@
       "res-bleed": "17",
       "res-curse": "5",
       "description": "Helm of Black Iron Tarkus, a knight known\nfor his great strength.\n\nBuilt of a special black iron and\nproviding strong defense, notably\nagainst fire, but so terribly heavy to be\nunwieldy to all but Tarkus himself.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/7f/Black_Iron_Helm.png/revision/latest?cb=20121012081856"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/7f/Black_Iron_Helm.png/revision/latest?cb=20121012081856",
+      "poise": " 12.0\n"
     },
     {
       "name": "Black Iron Leggings",
@@ -7083,7 +7099,8 @@
       "res-bleed": "25",
       "res-curse": "8",
       "description": "Leggings of Black Iron Tarkus, a knight\nknown for his great strength.\n\nBuilt of a special black iron and\nproviding strong defense, notably\nagainst fire, but so terribly heavy to be\nunwieldy to all but Tarkus himself.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9b/Black_Iron_Leggings.png/revision/latest?cb=20121012081857"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9b/Black_Iron_Leggings.png/revision/latest?cb=20121012081857",
+      "poise": " 18.0\n"
     },
     {
       "name": "Black Knight Armor",
@@ -7101,7 +7118,8 @@
       "res-bleed": "32",
       "res-curse": "0",
       "description": "Armor of the Black Knights who haunt Lordran.\n\nThe knights followed Lord Gwyn when he\ndeparted to link the Fire, but they were\nburned to ashes in the newly kindled flame,\nwandering the world as disembodied spirits\never after.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c7/Black_Knight_Armor.png/revision/latest?cb=20121009025927"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c7/Black_Knight_Armor.png/revision/latest?cb=20121009025927",
+      "poise": " 21.0\n"
     },
     {
       "name": "Black Knight Gauntlets",
@@ -7119,7 +7137,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "Gauntlets of the Black Knights who haunt\nLordran.\n\nThe knights pursued Lord Gwyn when he\ndeparted to link the Fire, but they were\nburned to ashes in the newly kindled flame,\nwandering the world as disembodied spirits\never after.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dc/Black_Knight_Gauntlets.png/revision/latest?cb=20121009025928"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dc/Black_Knight_Gauntlets.png/revision/latest?cb=20121009025928",
+      "poise": " 10.0\n"
     },
     {
       "name": "Black Knight Helm",
@@ -7137,7 +7156,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Helm of the Black Knights who haunt Lordran.\n\nThe knights followed Lord Gwyn when he\ndeparted to link the Fire but they were\nburned to ashes in the newly kindled flame,\nwandering the world as disembodied spirits\never after.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/54/Black_Knight_Helm.png/revision/latest?cb=20121009025927"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/54/Black_Knight_Helm.png/revision/latest?cb=20121009025927",
+      "poise": " 8.0\n"
     },
     {
       "name": "Black Knight Leggings",
@@ -7155,7 +7175,8 @@
       "res-bleed": "17",
       "res-curse": "0",
       "description": "Leggings of the Black Knights who haunt\nLordran.\n\nThe knights followed Lord Gwyn when he\ndeparted to link the flame, but they\nwere burned to ashes in the newly kindled\nfire, wandering the world as disembodied\nspirits ever after.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/62/Black_Knight_Leggings.png/revision/latest?cb=20121009025928"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/62/Black_Knight_Leggings.png/revision/latest?cb=20121009025928",
+      "poise": " 11.0\n"
     },
     {
       "name": "Black Leather Armor",
@@ -7173,7 +7194,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "This armor made of smooth black leather is\nextremely quiet, a good thing for those who\nhide in the shadows.\n\nThe leather itself is thick, offering a\ndecent level of protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/23/Black_Leather_Armor.png/revision/latest?cb=20120925103049"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/23/Black_Leather_Armor.png/revision/latest?cb=20120925103049",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Leather Boots",
@@ -7191,7 +7213,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "These boots made of smooth black leather are\nextremely quiet, good for those who hide in\nthe shadows.\n\nThe leather itself is thick, offering a\ndecent level of protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f5/Black_Leather_Boots.png/revision/latest?cb=20120925103049"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f5/Black_Leather_Boots.png/revision/latest?cb=20120925103049",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Leather Gloves",
@@ -7209,7 +7232,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "These gloves made of smooth black leather are\nextremely quiet, good for those who hide in\nthe shadows.\n\nThe leather itself is thick, offering a\ndecent level of protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/77/Black_Leather_Gloves.png/revision/latest?cb=20120925103049"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/77/Black_Leather_Gloves.png/revision/latest?cb=20120925103049",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Manchette",
@@ -7227,7 +7251,8 @@
       "res-bleed": "10",
       "res-curse": "5",
       "description": "Manchette worn by pardoners serving Velka,\nthe Goddess of Sin.\n\nThe pardoners' attire is uniformly black in\ncolor and said to be imbued with Velka's\nmystical power, which provides resistance\nagainst all manner of magic.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/89/Black_Manchette.png/revision/latest?cb=20120929092542"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/89/Black_Manchette.png/revision/latest?cb=20120929092542",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Sorcerer Boots",
@@ -7245,7 +7270,8 @@
       "res-bleed": "18",
       "res-curse": "2",
       "description": "Boots worn by the secret sorcerers at\nVinheim Dragon School.\n\nThey secretly work with sound-based spells,\nand never reveal themselves.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/73/Black_Sorcerer_Boots.png/revision/latest?cb=20120929092543"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/73/Black_Sorcerer_Boots.png/revision/latest?cb=20120929092543",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Sorcerer Cloak",
@@ -7263,7 +7289,8 @@
       "res-bleed": "31",
       "res-curse": "4",
       "description": "Cloak worn by the secret sorcerers at\nVinheim Dragon School.\n\nThey secretly work with sound-based spells,\nand never reveal themselves.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/black_sorcerer_cloak.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Sorcerer Gauntlets",
@@ -7281,7 +7308,8 @@
       "res-bleed": "18",
       "res-curse": "2",
       "description": "Gauntlets worn by the secret sorcerers at\nVinheim Dragon School.\n\nThey secretly work with sound-based spells,\nand never reveal themselves.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/25/Black_Sorcerer_Gauntlets.png/revision/latest?cb=20130511072231"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/25/Black_Sorcerer_Gauntlets.png/revision/latest?cb=20130511072231",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Sorcerer Hat",
@@ -7299,7 +7327,8 @@
       "res-bleed": "12",
       "res-curse": "2",
       "description": "Hat worn by the secret sorcerers at Vinheim\nDragon School.\n\nThey secretly work with sound-based spells,\nand never reveal themselves.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/41/Black_Sorcerer_Hat_Male.png/revision/latest?cb=20130511072039"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/41/Black_Sorcerer_Hat_Male.png/revision/latest?cb=20130511072039",
+      "poise": " 0.0\n"
     },
     {
       "name": "Black Tights",
@@ -7317,7 +7346,8 @@
       "res-bleed": "15",
       "res-curse": "9",
       "description": "Tights worn by pardoners serving Velka,\nthe Goddess of Sin.\n\nThe pardoners' attire is uniformly black in\ncolor and said to be imbued with Velka's\nmystical power, which provides resistance\nagainst all manner of magic.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/32/Black_Tights.png/revision/latest?cb=20120929092542"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/32/Black_Tights.png/revision/latest?cb=20120929092542",
+      "poise": " 0.0\n"
     },
     {
       "name": "Blood-Stained Skirt",
@@ -7335,7 +7365,8 @@
       "res-bleed": "29",
       "res-curse": "29",
       "description": "Worn by the Fire Keeper at Firelink Shrine.\n\nIt is thought to have once been the white\nskirt of a maiden, but its true origin\nis lost in patches of blood. Perhaps its\nformer wearer was maimed to prevent escape?",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8b/Blood-Stained_Skirt.png/revision/latest?cb=20120929092859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8b/Blood-Stained_Skirt.png/revision/latest?cb=20120929092859",
+      "poise": " 0.0\n"
     },
     {
       "name": "Boots of the Explorer",
@@ -7353,7 +7384,8 @@
       "res-bleed": "8",
       "res-curse": "5",
       "description": "Strange boots from the ancient land of Zena,\nbirthplace of the curious dealer Domhnall.\n\nThe inlaid silver rings symbolize an\nexplorer.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3b/Boots_of_the_Explorer.png/revision/latest?cb=20121009025926"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3b/Boots_of_the_Explorer.png/revision/latest?cb=20121009025926",
+      "poise": " 6.0\n"
     },
     {
       "name": "Bracelet of the Great Lord",
@@ -7371,7 +7403,8 @@
       "res-bleed": "14",
       "res-curse": "18",
       "description": "Bracelets of Gwyn, Lord of Cinder, who linked\nthe First Flame.\n\nLord Gwyn, bearer of the ultimate soul,\ndivided that power among his clan before\nlinking the flame. When he departed, he\nleft only with his greatsword, his garb,\nand the crown, now bereft of power.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/33/Bracelet_of_the_Great_Lord.png/revision/latest?cb=20120929092902"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/33/Bracelet_of_the_Great_Lord.png/revision/latest?cb=20120929092902",
+      "poise": " 0.0\n"
     },
     {
       "name": "Brass Armor",
@@ -7389,7 +7422,8 @@
       "res-bleed": "24",
       "res-curse": "11",
       "description": "Armor of the Darkmoon Knightess,\nFire Keeper of Anor Londo.\n\nAfter becoming Undead, she visited the Dark\nSun Gwyndolin at the Mausoleum of the Spiral\nDepths, became a Blade of the Darkmoon,\nand assumed the flame-keeping duty. She\nreceived this armor, which hides her hideous\nform and helps her hunt the guilty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/90/1238.png/revision/latest?cb=20130201234103"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/90/1238.png/revision/latest?cb=20130201234103",
+      "poise": " 16.0\n"
     },
     {
       "name": "Brass Gauntlets",
@@ -7407,7 +7441,8 @@
       "res-bleed": "12",
       "res-curse": "6",
       "description": "Gauntlets of the Darkmoon Knightess,\nFire Keeper of Anor Londo.\n\nAfter becoming Undead, she visited the Dark\nSun Gwyndolin at the Mausoleum of the Spiral\nDepths, became a Blade of the Darkmoon,\nand assumed the flame-keeping duty. She\nreceived these gauntlets, which hide her\nhideous form and help her hunt the guilty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/42/Brass_Gauntlets.png/revision/latest?cb=20121009025929"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/42/Brass_Gauntlets.png/revision/latest?cb=20121009025929",
+      "poise": " 8.0\n"
     },
     {
       "name": "Brass Helm",
@@ -7425,7 +7460,8 @@
       "res-bleed": "11",
       "res-curse": "6",
       "description": "Helm of the Darkmoon Knightess,\nFire Keeper of Anor Londo.\n\nAfter becoming Undead, she visited the Dark\nSun Gwyndolin at the Mausoleum of the Spiral\nDepths, became a Blade of the Darkmoon,\nand assumed the flame-keeping duty. She\nreceived this helm, which hides her hideous\nform and helps her hunt the guilty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/59/Brass_Helm.png/revision/latest?cb=20121009025928"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/59/Brass_Helm.png/revision/latest?cb=20121009025928",
+      "poise": " 8.0\n"
     },
     {
       "name": "Brass Leggings",
@@ -7443,7 +7479,8 @@
       "res-bleed": "14",
       "res-curse": "7",
       "description": "Leggings of the Darkmoon Knightess,\nFire Keeper of Anor Londo.\n\nAfter becoming Undead, she visited the Dark\nSun Gwyndolin at the Mausoleum of the Spiral\nDepths, became a Blade of the Darkmoon,\nand assumed the flame-keeping duty. She\nreceived these leggings, which hide her\nhideous form and help her hunt the guilty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/77/Brass_Leggings.png/revision/latest?cb=20121009025929"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/77/Brass_Leggings.png/revision/latest?cb=20121009025929",
+      "poise": " 9.0\n"
     },
     {
       "name": "Brigand Armor",
@@ -7461,7 +7498,8 @@
       "res-bleed": "20",
       "res-curse": "0",
       "description": "Armor worn by the brigands who raid mountain\nhamlets and attack travelers.\n\nThe addition of metal over a base of cloth\nand leather offers good mobility and defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/68/Brigand_Armor.png/revision/latest?cb=20120925102821"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/68/Brigand_Armor.png/revision/latest?cb=20120925102821",
+      "poise": " 0.0\n"
     },
     {
       "name": "Brigand Gauntlets",
@@ -7479,7 +7517,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Gauntlets worn by the brigands who raid\nmountain hamlets and attack travelers.\n\nThe addition of metal over a base of cloth\nand leather offers good mobility and defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/63/Brigand_Gauntlets.png/revision/latest?cb=20120925102821"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/63/Brigand_Gauntlets.png/revision/latest?cb=20120925102821",
+      "poise": " 0.0\n"
     },
     {
       "name": "Brigand Hood",
@@ -7497,7 +7536,8 @@
       "res-bleed": "8",
       "res-curse": "0",
       "description": "Hood worn by the brigands who raid mountain\nhamlets and attack travelers.\n\nIn addition to protecting against the blazing\nsun, dust, and sand, it helps them tell\nfriend from foe in the heat of battle.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/brigand_hood.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Brigand Trousers",
@@ -7515,7 +7555,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Trousers worn by the brigands who raid\nmountain hamlets and attack travelers.\n\nThe addition of metal over a base of cloth\nand leather offers good mobility and defense.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/brigand_trousers.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Catarina Armor",
@@ -7533,7 +7574,8 @@
       "res-bleed": "34",
       "res-curse": "0",
       "description": "Distinctively shaped armor worn by the\nKnights of Catarina.\n\nOutside Catarina, it is often ridiculed for\nits onion-like shape, infuriating the proud\nknights, but the masterfully forged curved\ndesign makes it very effective for parrying.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/98/Catarina_Armor.png/revision/latest?cb=20121009025930"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/98/Catarina_Armor.png/revision/latest?cb=20121009025930",
+      "poise": " 21.0\n"
     },
     {
       "name": "Catarina Gauntlets",
@@ -7551,7 +7593,8 @@
       "res-bleed": "21",
       "res-curse": "0",
       "description": "Distinctively shaped gauntlets worn by the\nKnights of Catarina.\n\nOutside Catarina, they are often ridiculed\nfor their onion-like shape, infuriating the\nproud knights, but the masterfully forged\ncurved design makes it very effective for\nparrying.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9a/Catarina_Gauntlets.png/revision/latest?cb=20121009025930"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9a/Catarina_Gauntlets.png/revision/latest?cb=20121009025930",
+      "poise": " 13.0\n"
     },
     {
       "name": "Catarina Helm",
@@ -7569,7 +7612,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Distinctively shaped helm worn by the\nKnights of Catarina.\n\nOutside Catarina, it is often ridiculed for\nits onion-like shape, infuriating the proud\nknights, but the masterfully forged curved\ndesign makes it very effective for parrying.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/17/Catarina_Helm.png/revision/latest?cb=20121009025929"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/17/Catarina_Helm.png/revision/latest?cb=20121009025929",
+      "poise": " 8.0\n"
     },
     {
       "name": "Catarina Leggings",
@@ -7587,7 +7631,8 @@
       "res-bleed": "21",
       "res-curse": "0",
       "description": "Distinctively shaped leggings worn by the\nKnights of Catarina.\n\nOutside Catarina, they are often ridiculed\nfor their onion-like shape, infuriating the\nproud knights, but the masterfully forged\ncurved design makes it very effective for\nparrying.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4d/Catarina_Leggings.png/revision/latest?cb=20121009025930"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4d/Catarina_Leggings.png/revision/latest?cb=20121009025930",
+      "poise": " 13.0\n"
     },
     {
       "name": "Chain Armor",
@@ -7605,7 +7650,8 @@
       "res-bleed": "20",
       "res-curse": "0",
       "description": "Chainmail armor of thin interlinking rings of\nsteel. It is common throughout the human\nworld since it can be easily produced, is not\ntoo heavy, and offers good defense.\n\nKnights may favor flashy armor, but for\nwarriors on the battlefield, anything is\nfine as long as it keeps them alive.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f3/Chain_Armor.png/revision/latest?cb=20120929092544"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f3/Chain_Armor.png/revision/latest?cb=20120929092544",
+      "poise": " 9.0\n"
     },
     {
       "name": "Chain Helm",
@@ -7623,7 +7669,8 @@
       "res-bleed": "10",
       "res-curse": "0",
       "description": "A chainmail helm of thin interlinking rings\nof steel. It is common throughout the human\nworld since it can be easily produced, is not\ntoo heavy, and offers good defense.\n\nKnights may favor flashy armor, but for\nwarriors on the battlefield, anything is\nfine as long as it keeps them alive.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/17/Chain_Helm.png/revision/latest?cb=20120929092544"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/17/Chain_Helm.png/revision/latest?cb=20120929092544",
+      "poise": " 5.0\n"
     },
     {
       "name": "Chain Leggings",
@@ -7641,7 +7688,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "Chainmail leggings of thin interlinking\nrings of steel. It is common throughout the\nhuman world since it can be easily produced,\nis not too heavy, and offers good defense.\n\nKnights may favor flashy armor, but for\nwarriors on the battlefield, anything is\nfine as long as it keeps them alive.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2a/Chain_Leggings.png/revision/latest?cb=20120929092544"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2a/Chain_Leggings.png/revision/latest?cb=20120929092544",
+      "poise": " 7.0\n"
     },
     {
       "name": "Cleric Armor",
@@ -7659,7 +7707,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Armor worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nIt is rather substantial in size and weight,\nmaking its wearer look even bigger than he\nactually is.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/bf/Cleric_Armor.png/revision/latest?cb=20121009030406"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/bf/Cleric_Armor.png/revision/latest?cb=20121009030406",
+      "poise": " 20.0\n"
     },
     {
       "name": "Cleric Gauntlets",
@@ -7677,7 +7726,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Gauntlets worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nThey are rather substantial in size and\nweight, making its wearer look even bigger\nthan he actually is.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f3/Cleric_Gauntlets.png/revision/latest?cb=20121009030406"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f3/Cleric_Gauntlets.png/revision/latest?cb=20121009030406",
+      "poise": " 12.0\n"
     },
     {
       "name": "Cleric Helm",
@@ -7695,7 +7745,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Helm worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nIt is rather substantial in size and weight,\nmaking its wearer look even bigger than he\nactually is.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/21/Cleric_Helm.png/revision/latest?cb=20121009030405"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/21/Cleric_Helm.png/revision/latest?cb=20121009030405",
+      "poise": " 8.0\n"
     },
     {
       "name": "Cleric Leggings",
@@ -7713,7 +7764,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Leggings worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nThey are rather substantial in size and\nweight, making its wearer look even bigger\nthan he actually is.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3f/Cleric_Leggings.png/revision/latest?cb=20121009030406"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3f/Cleric_Leggings.png/revision/latest?cb=20121009030406",
+      "poise": " 12.0\n"
     },
     {
       "name": "Crimson Gloves",
@@ -7731,7 +7783,8 @@
       "res-bleed": "4",
       "res-curse": "4",
       "description": "Gloves of the sorcerers who flooded\nNew Londo to seal away the Darkwraiths,\nand the Four Kings who descended into Dark.\n\nThe Sealers were once known as healers, and\nthe bright crimson was a symbol of that.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/14/Crimson_Gloves.png/revision/latest?cb=20120929092858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/14/Crimson_Gloves.png/revision/latest?cb=20120929092858",
+      "poise": " 0.0\n"
     },
     {
       "name": "Crimson Robe",
@@ -7749,7 +7802,8 @@
       "res-bleed": "21",
       "res-curse": "21",
       "description": "Robe of the sorcerers who flooded\nNew Londo to seal away the Darkwraiths,\nand the Four Kings who descended into Dark.\n\nThe Sealers were once known as healers, and\nthe bright crimson was a symbol of that.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9a/Crimson_Robe.png/revision/latest?cb=20120929092857"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9a/Crimson_Robe.png/revision/latest?cb=20120929092857",
+      "poise": " 0.0\n"
     },
     {
       "name": "Crimson Waistcloth",
@@ -7767,7 +7821,8 @@
       "res-bleed": "19",
       "res-curse": "19",
       "description": "Waistcloth of the sorcerers who flooded\nNew Londo to seal away the Darkwraiths,\nand the Four Kings who descended into Dark.\n\nThe Sealers were once known as healers, and\nthe bright crimson was a symbol of that.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a9/Crimson_Waistcloth.png/revision/latest?cb=20120929092858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a9/Crimson_Waistcloth.png/revision/latest?cb=20120929092858",
+      "poise": " 0.0\n"
     },
     {
       "name": "Crown of Dusk",
@@ -7785,7 +7840,8 @@
       "res-bleed": "5",
       "res-curse": "20",
       "description": "Special magic crown bestowed upon Dusk,\nPrincess of Oolacile, upon her birth.\n\nIts wearer is blessed by all manner of magic.\nThis raises the power and effect of the\nwearer's magic, but damage suffered by magic\nattacks also rises.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2b/Crown_of_Dusk.png/revision/latest?cb=20160526200651"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2b/Crown_of_Dusk.png/revision/latest?cb=20160526200651",
+      "poise": " 0.0\n"
     },
     {
       "name": "Crown of the Dark Sun",
@@ -7803,7 +7859,8 @@
       "res-bleed": "9",
       "res-curse": "12",
       "description": "Crown of the Dark Sun Gwyndolin, protector\nof the forsaken city of Anor Londo.\n\nThis crown of the gods demands faith\nimmeasurable of its wearer, but it is imbued\nwith Darkmoon power that enhances all magic.\nThe image of the sun manifests Gwyndolin's\ndeep adoration of the sun.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/7a/Crown_of_the_Dark_Sun.png/revision/latest?cb=20120929093755"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/7a/Crown_of_the_Dark_Sun.png/revision/latest?cb=20120929093755",
+      "poise": " 0.0\n"
     },
     {
       "name": "Crown of the Great Lord",
@@ -7821,7 +7878,8 @@
       "res-bleed": "15",
       "res-curse": "20",
       "description": "Crown of Gwyn, Lord of Cinder, who linked\nthe First Flame.\n\nLord Gwyn, bearer of the ultimate soul,\ndivided his power among his great clan before\nlinking the flame. But he did keep his crown,\nperhaps to preserve a symbol of the monarch,\nfor its actual power had fully subsided.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Crown_of_the_Great_Lord.png/revision/latest?cb=20120929092901"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Crown_of_the_Great_Lord.png/revision/latest?cb=20120929092901",
+      "poise": " 0.0\n"
     },
     {
       "name": "Crystalline Armor",
@@ -7839,7 +7897,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "Armor worn by a Hollowed knight, who was\npartially crystallized.\n\nThe crystal provides powerful defense, but\nit cannot be used for long because it is\neasily broken and cannot be repaired.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dd/Crystalline_Armor.png/revision/latest?cb=20121009030407"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dd/Crystalline_Armor.png/revision/latest?cb=20121009030407",
+      "poise": " 16.0\n"
     },
     {
       "name": "Crystalline Gauntlets",
@@ -7857,7 +7916,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Gauntlets worn by a Hollowed knight, who was\npartially crystallized.\n\nThe crystal provides strong defense, but\nthey cannot be used for long because they\nare easily broken and cannot be repaired.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/80/Crystalline_Gauntlets.png/revision/latest?cb=20121009030407"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/80/Crystalline_Gauntlets.png/revision/latest?cb=20121009030407",
+      "poise": " 9.0\n"
     },
     {
       "name": "Crystalline Helm",
@@ -7875,7 +7935,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "Helm worn by a Hollowed knight, who was\npartially crystallized.\n\nThe crystal provides powerful defense,\nbut it cannot be used for long because it is\neasily broken and cannot be repaired.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/ac/Crystalline_Helm.png/revision/latest?cb=20121009030406"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/ac/Crystalline_Helm.png/revision/latest?cb=20121009030406",
+      "poise": " 6.0\n"
     },
     {
       "name": "Crystalline Leggings",
@@ -7893,7 +7954,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Leggings worn by a Hollowed knight, who was\npartially crystallized.\n\nThe crystal power provides good defense, but\nthey cannot be used for long because they\nare easily broken and cannot be repaired.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/6a/Crystalline_Leggings.png/revision/latest?cb=20121009030407"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/6a/Crystalline_Leggings.png/revision/latest?cb=20121009030407",
+      "poise": " 9.0\n"
     },
     {
       "name": "Dark Armor",
@@ -7911,7 +7973,8 @@
       "res-bleed": "30",
       "res-curse": "0",
       "description": "Armor of the Darkwraiths, former knights of\nNew Londo who descended into Dark.\n\nTheir armor transformed, and remains a\nsymbol of the Dark servants and their\ndiabolical art of Lifedrain.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/94/Dark_Armor.png/revision/latest?cb=20121009030408"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/94/Dark_Armor.png/revision/latest?cb=20121009030408",
+      "poise": " 16.0\n"
     },
     {
       "name": "Dark Gauntlets",
@@ -7929,7 +7992,8 @@
       "res-bleed": "18",
       "res-curse": "0",
       "description": "Gauntlets of the Darkwraiths, former knights\nof New Londo who descended into Dark.\n\nTheir gauntlets transformed, and remain\nsymbol of the Dark servants and their\ndiabolical art of Lifedrain.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/bd/Dark_Gauntlets.png/revision/latest?cb=20121009030408"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/bd/Dark_Gauntlets.png/revision/latest?cb=20121009030408",
+      "poise": " 9.0\n"
     },
     {
       "name": "Dark Leggings",
@@ -7947,7 +8011,8 @@
       "res-bleed": "18",
       "res-curse": "0",
       "description": "Leggings of the Darkwraiths, former knights\nof New Londo who descended into Dark.\n\nTheir leggings transformed, and remain a\nsymbol of the Dark servants and their\ndiabolical art of Lifedrain.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/38/Dark_Leggings.png/revision/latest?cb=20121009030408"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/38/Dark_Leggings.png/revision/latest?cb=20121009030408",
+      "poise": " 9.0\n"
     },
     {
       "name": "Dark Mask",
@@ -7965,7 +8030,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Mask of the Darkwraiths, former knights of\nNew Londo who descended into Dark.\n\nSome say the skeletal mask of an ancient\nDarkwraith is partially fused with the flesh\nof its face.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/76/Dark_Mask.png/revision/latest?cb=20121009030408"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/76/Dark_Mask.png/revision/latest?cb=20121009030408",
+      "poise": " 6.0\n"
     },
     {
       "name": "Dingy Gloves",
@@ -7983,7 +8049,8 @@
       "res-bleed": "14",
       "res-curse": "14",
       "description": "Worn by the Fire Keeper at Firelink Shrine.\n\nThey are thought to have once been the white\ngloves of a maiden, but smoke and ashes\nfrom bonfires have darkened them over the\nyears.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/87/Dingy_Gloves.png/revision/latest?cb=20120929092859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/87/Dingy_Gloves.png/revision/latest?cb=20120929092859",
+      "poise": " 0.0\n"
     },
     {
       "name": "Dingy Hood",
@@ -8001,7 +8068,8 @@
       "res-bleed": "9",
       "res-curse": "9",
       "description": "Worn by the Fire Keeper at Firelink Shrine.\n\nIt is thought to have once been the white\nhood of a maiden, but smoke and ashes\nfrom bonfires have darkened it over the\nyears.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Dingy_Hood.png/revision/latest?cb=20120929092858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Dingy_Hood.png/revision/latest?cb=20120929092858",
+      "poise": " 0.0\n"
     },
     {
       "name": "Dingy Robe",
@@ -8019,7 +8087,8 @@
       "res-bleed": "35",
       "res-curse": "35",
       "description": "Worn by the Fire Keeper at Firelink Shrine.\n\nIt is thought to have once been the white\nrobe of a maiden, but smoke and ashes\nfrom bonfires have darkened it over the\nyears.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a2/Dingy_Robe.png/revision/latest?cb=20120929092859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a2/Dingy_Robe.png/revision/latest?cb=20120929092859",
+      "poise": " 0.0\n"
     },
     {
       "name": "Eastern Armor",
@@ -8037,7 +8106,8 @@
       "res-bleed": "38",
       "res-curse": "0",
       "description": "Distinctive armor made in an Eastern Land.\n\nExquisitely crafted, this armor offers\nexcellent defense, particularly versus slash\nattacks, which are one of the main threats in\nbattles in the East.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/51/Eastern_Armor.png/revision/latest?cb=20121009030409"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/51/Eastern_Armor.png/revision/latest?cb=20121009030409",
+      "poise": " 20.0\n"
     },
     {
       "name": "Eastern Gauntlets",
@@ -8055,7 +8125,8 @@
       "res-bleed": "5",
       "res-curse": "0",
       "description": "Distinctive gauntlets made in an Eastern\nland.\n\nExquisitely crafted, these gauntlets offer\nexcellent defense, particularly versus slash\nattacks, which are one of the main threats in\nbattles in the East.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ed/Eastern_Gauntlets.png/revision/latest?cb=20121009030409"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ed/Eastern_Gauntlets.png/revision/latest?cb=20121009030409",
+      "poise": " 2.0\n"
     },
     {
       "name": "Eastern Helm",
@@ -8073,7 +8144,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "A distinctive helm made in an Eastern land.\n\nExquisitely crafted, this helm offers\nexcellent defense, particularly versus slash\nattacks, which are one of the main threats in\nbattles in the East.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1b/Eastern_Helm.png/revision/latest?cb=20121009030409"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1b/Eastern_Helm.png/revision/latest?cb=20121009030409",
+      "poise": " 8.0\n"
     },
     {
       "name": "Eastern Leggings",
@@ -8091,7 +8163,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Distinctive leggings made in an Eastern\nland.\n\nExquisitely crafted, these leggings offer\nexcellent defense, particularly versus slash\nattacks, which are one of the main threats in\nbattles in the East.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/90/Eastern_Leggings.png/revision/latest?cb=20121009030410"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/90/Eastern_Leggings.png/revision/latest?cb=20121009030410",
+      "poise": " 6.0\n"
     },
     {
       "name": "Elite Cleric Armor",
@@ -8109,7 +8182,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Armor worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nAmong such armors, those that were black\nbelonged to warrior clerics sent on missions,\nmany of whom were high-level priests.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e4/Elite_Cleric_Armor.png/revision/latest?cb=20121207215553"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e4/Elite_Cleric_Armor.png/revision/latest?cb=20121207215553",
+      "poise": " 23.0\n"
     },
     {
       "name": "Elite Cleric Gauntlets",
@@ -8127,7 +8201,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Gauntlets worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nAmong such gauntlets, those that were black\nbelonged to warrior clerics sent on missions,\nmany of whom were high-level priests.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Elite_Cleric_Gauntlets.png/revision/latest?cb=20121207215604"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Elite_Cleric_Gauntlets.png/revision/latest?cb=20121207215604",
+      "poise": " 14.0\n"
     },
     {
       "name": "Elite Cleric Helm",
@@ -8145,7 +8220,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Helm worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nAmong such helms, those that were black\nbelonged to warrior clerics sent on missions,\nmany of whom were high-level priests.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2c/Elite_Cleric_Helm.png/revision/latest?cb=20121207215621"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2c/Elite_Cleric_Helm.png/revision/latest?cb=20121207215621",
+      "poise": " 8.0\n"
     },
     {
       "name": "Elite Cleric Leggings",
@@ -8163,7 +8239,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Leggings worn by the warrior clerics of the\nWay of White, who are famous for being\nunyielding in battle.\n\nAmong such leggings, those that were black\nbelonged to warrior clerics sent on missions,\nmany of whom were high-level priests.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/50/Elite_Cleric_Leggings.png/revision/latest?cb=20121207215635"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/50/Elite_Cleric_Leggings.png/revision/latest?cb=20121207215635",
+      "poise": " 14.0\n"
     },
     {
       "name": "Elite Knight Armor",
@@ -8181,7 +8258,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Armor of a nameless knight, perhaps an elite\nknight of Astora, based on the fire-warding\nheraldic symbol on its blue surcoat.\n\nAlthough he was loath to give up on his\nUndead mission, he perished at the Undead\nAsylum, and went Hollow.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/40/Elite_Knight_Armor.png/revision/latest?cb=20121009030757"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/40/Elite_Knight_Armor.png/revision/latest?cb=20121009030757",
+      "poise": " 20.0\n"
     },
     {
       "name": "Elite Knight Gauntlets",
@@ -8199,7 +8277,8 @@
       "res-bleed": "7",
       "res-curse": "0",
       "description": "Gauntlets of a nameless knight, perhaps an\nelite knight of Astora.\n\nAlthough he was loath to give up on his\nUndead mission, he perished at the Undead\nAsylum, and went Hollow.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/59/Elite_Knight_Gauntlets.png/revision/latest?cb=20121009030757"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/59/Elite_Knight_Gauntlets.png/revision/latest?cb=20121009030757",
+      "poise": " 6.0\n"
     },
     {
       "name": "Elite Knight Helm",
@@ -8217,7 +8296,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Helm of a nameless knight, perhaps an elite\nknight of Astora.\n\nAlthough he was loath to give up on his\nUndead mission, he perished at the Undead\nAsylum, and went Hollow.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a5/Elite_Knight_Helm.png/revision/latest?cb=20121009030757"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a5/Elite_Knight_Helm.png/revision/latest?cb=20121009030757",
+      "poise": " 8.0\n"
     },
     {
       "name": "Elite Knight Leggings",
@@ -8235,7 +8315,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Leggings of a nameless knight, perhaps an\nelite knight of Astora.\n\nAlthough he was loath to give up on his\nUndead mission, he perished at the Undead\nAsylum, and went Hollow.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a7/Elite_Knight_Leggings.png/revision/latest?cb=20121009030758"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a7/Elite_Knight_Leggings.png/revision/latest?cb=20121009030758",
+      "poise": " 12.0\n"
     },
     {
       "name": "Embraced Armor of Favor",
@@ -8253,7 +8334,8 @@
       "res-bleed": "28",
       "res-curse": "22",
       "description": "Armor of Lautrec the Embraced,\nrepresenting the goddess Fina's love.\n\nThe goddess's arms wrap around it, as if to\nembrace the wearer.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b9/Embraced_Armor_of_Favor.png/revision/latest?cb=20160526200602"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b9/Embraced_Armor_of_Favor.png/revision/latest?cb=20160526200602",
+      "poise": " 20.0\n"
     },
     {
       "name": "Fang Boar Helm",
@@ -8271,7 +8353,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Severed head of the fully-armored Fang Boar\ntaken by the one who killed it as proof of\nhis victory, just as the Gods once did with\nthe head of the ancient dragon.\n\nCan be worn on the head as a surprisingly\nsound piece of protective gear.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/94/Fang_Boar_Helm.png/revision/latest?cb=20130802100809"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/94/Fang_Boar_Helm.png/revision/latest?cb=20130802100809",
+      "poise": " 12.0\n"
     },
     {
       "name": "Gargoyle Helm",
@@ -8289,7 +8372,8 @@
       "res-bleed": "22",
       "res-curse": "0",
       "description": "Helm of the gargoyle, an enchanted creature\nthat guarded the Bell of Awakening in the\nbelfry of the Undead Church.\n\nThis bronze helm was for mere appearance's\nsake, as gargoyle skin is naturally hard.\nLittle in the way of defense can be expected\nfrom it.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ea/Gargoyle_Helm.png/revision/latest?cb=20121012035452"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ea/Gargoyle_Helm.png/revision/latest?cb=20121012035452",
+      "poise": " 8.0\n"
     },
     {
       "name": "Gauntlets of Favor",
@@ -8307,7 +8391,8 @@
       "res-bleed": "11",
       "res-curse": "10",
       "description": "Gauntlets of Lautrec the Embraced,\nrepresenting the goddess Fina's love.\n\nDuring his solitude, he forsook everything,\nfor he believed in the goddess's love for\nhim.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/cc/Gauntlets_of_Favor.png/revision/latest?cb=20160526200601"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/cc/Gauntlets_of_Favor.png/revision/latest?cb=20160526200601",
+      "poise": " 8.0\n"
     },
     {
       "name": "Gauntlets of Thorns",
@@ -8325,7 +8410,8 @@
       "res-bleed": "16",
       "res-curse": "0",
       "description": "Gauntlets of Kirk, Knight of Thorns and\nnotorious member of the Darkwraiths. A dense\npatch of thorns grows from their surface.\n\nThey are fitting items for the murderous\nKirk, for by simply wearing them and rolling,\none can damage enemies.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2a/Gauntlets_of_Thorns.png/revision/latest?cb=20121009030956"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2a/Gauntlets_of_Thorns.png/revision/latest?cb=20121009030956",
+      "poise": " 9.0\n"
     },
     {
       "name": "Gauntlets of the Channelers",
@@ -8343,7 +8429,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Gauntlets of the Channelers, sorcerers that\nserve Seath the Scaleless. Even after the\nonset of Seath's madness, the \"snatchers,\"\nas they were often called, ventured to far\nlands to find suitable human specimens.\n\nThe heaviest of protective gear for\nsorcerers, and imbued with magic.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4b/Gauntlets_of_the_Channelers.png/revision/latest?cb=20121009030405"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4b/Gauntlets_of_the_Channelers.png/revision/latest?cb=20121009030405",
+      "poise": " 3.0\n"
     },
     {
       "name": "Gauntlets of the Vanquisher",
@@ -8361,7 +8448,8 @@
       "res-bleed": "6",
       "res-curse": "4",
       "description": "Strange gauntlets from the ancient land of\nZena, birthplace of the curious dealer\nDomhnall.\n\nThe gold bracelets symbolize a vanquisher.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/gauntlets_of_the_vanquisher.png"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/82/Def_atk_phy.png/revision/latest/scale-to-width-down/20?cb=20111011015153",
+      "poise": " 4.0\n"
     },
     {
       "name": "Giant Armor",
@@ -8379,7 +8467,8 @@
       "res-bleed": "32",
       "res-curse": "0",
       "description": "Armor of the giant sentinels of Anor Londo.\n\nMade from ancient brass, it also offers\nprotection versus non-physical attacks, but\ndue to its giant size, it is extremely heavy\nfor humans, and impedes stamina recovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/00/Giant_Armor.png/revision/latest?cb=20121012081858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/00/Giant_Armor.png/revision/latest?cb=20121012081858",
+      "poise": " 35.0\n"
     },
     {
       "name": "Giant Gauntlets",
@@ -8397,7 +8486,8 @@
       "res-bleed": "19",
       "res-curse": "0",
       "description": "Gauntlets of the giant sentinels of Anor\nLondo.\n\nMade from ancient brass, they also offer\nprotection versus non-physical attacks, but\ndue to their giant size, they are extremely\nheavy for humans, and impede stamina\nrecovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/22/Giant_Gauntlets.png/revision/latest?cb=20121012081858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/22/Giant_Gauntlets.png/revision/latest?cb=20121012081858",
+      "poise": " 21.0\n"
     },
     {
       "name": "Giant Helm",
@@ -8415,7 +8505,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Helm of the giant sentinels of Anor Londo.\n\nMade from ancient brass, it also offers\nprotection versus non-physical attacks, but\ndue to its giant size, it is extremely heavy\nfor humans, and impedes stamina recovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1d/Giant_Helm.png/revision/latest?cb=20121012081857"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1d/Giant_Helm.png/revision/latest?cb=20121012081857",
+      "poise": " 14.0\n"
     },
     {
       "name": "Giant Leggings",
@@ -8433,7 +8524,8 @@
       "res-bleed": "19",
       "res-curse": "0",
       "description": "Leggings of the giant sentinels of Anor\nLondo.\n\nMade from ancient brass, they also offer\nprotection versus non-physical attacks, but\ndue to their giant size, they are extremely\nheavy for humans, and impede stamina\nrecovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/72/Giant_Leggings.png/revision/latest?cb=20121012081858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/72/Giant_Leggings.png/revision/latest?cb=20121012081858",
+      "poise": " 21.0\n"
     },
     {
       "name": "Gold-Hemmed Black Cloak",
@@ -8451,7 +8543,8 @@
       "res-bleed": "40",
       "res-curse": "0",
       "description": "Worn by the witch Quelana of Izalith, mother\nof pyromancy and Daughter of Chaos.\n\nShe wore this gold-hemmed black cloak\nbefore even the Age of Fire, and it offers\nstrong resistance versus fire, poison, and\nother perils.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/91/Gold-Hemmed_Black_Cloak.png/revision/latest?cb=20120929092859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/91/Gold-Hemmed_Black_Cloak.png/revision/latest?cb=20120929092859",
+      "poise": " 0.0\n"
     },
     {
       "name": "Gold-Hemmed Black Gloves",
@@ -8469,7 +8562,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Worn by the witch Quelana of Izalith, mother\nof pyromancy and Daughter of Chaos.\n\nShe wore these gold-lined black gloves\nbefore even the Age of Fire, and they offer\nstrong resistance versus fire, poison, and\nother perils.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/13/Gold-Hemmed_Black_Gloves.png/revision/latest?cb=20120929092900"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/13/Gold-Hemmed_Black_Gloves.png/revision/latest?cb=20120929092900",
+      "poise": " 0.0\n"
     },
     {
       "name": "Gold-Hemmed Black Hood",
@@ -8487,7 +8581,8 @@
       "res-bleed": "16",
       "res-curse": "0",
       "description": "Worn by the witch Quelana of Izalith, mother\nof pyromancy and Daughter of Chaos.\n\nShe wore this gold-hemmed black hood before\neven the Age of Fire, and it offers strong\nresistance versus fire, poison, and other\nperils.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a0/Gold-Hemmed_Black_Hood.png/revision/latest?cb=20120929092859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a0/Gold-Hemmed_Black_Hood.png/revision/latest?cb=20120929092859",
+      "poise": " 0.0\n"
     },
     {
       "name": "Gold-Hemmed Black Skirt",
@@ -8505,7 +8600,8 @@
       "res-bleed": "32",
       "res-curse": "0",
       "description": "Worn by the witch Quelana of Izalith, founder\nof pyromancy and one of the Daughters of\nChaos.\n\nShe wore this gold-hemmed black skirt before\neven the Age of Fire, and it offers strong\nresistance versus fire, poison, and other\nperils.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/aa/Gold-Hemmed_Black_Skirt.png/revision/latest?cb=20120929092901"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/aa/Gold-Hemmed_Black_Skirt.png/revision/latest?cb=20120929092901",
+      "poise": " 0.0\n"
     },
     {
       "name": "Golem Armor",
@@ -8523,7 +8619,8 @@
       "res-bleed": "45",
       "res-curse": "0",
       "description": "Body of the Iron Golem, guardian of the\nancient Sen's Fortress, slayer of heroes who\nventured forth to Anor Londo.\n\nWithout its core, it is a mere hunk of iron,\nand can be equipped as solid protective gear,\nbut its immense weight hinders stamina\nrecovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f4/Golem_Armor.png/revision/latest?cb=20121012081858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f4/Golem_Armor.png/revision/latest?cb=20121012081858",
+      "poise": " 33.0\n"
     },
     {
       "name": "Golem Gauntlets",
@@ -8541,7 +8638,8 @@
       "res-bleed": "27",
       "res-curse": "0",
       "description": "Arms of the Iron Golem, guardian of the\nancient Sen's Fortress, slayer of heroes who\nventured forth to Anor Londo.\n\nWithout its core, they are mere hunks of\niron, and can be equipped as solid protective\ngear, but their immense weight hinders\nstamina recovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/68/Golem_Gauntlets.png/revision/latest?cb=20121012081858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/68/Golem_Gauntlets.png/revision/latest?cb=20121012081858",
+      "poise": " 20.0\n"
     },
     {
       "name": "Golem Helm",
@@ -8559,7 +8657,8 @@
       "res-bleed": "17",
       "res-curse": "0",
       "description": "Head of the Iron Golem, guardian of the\nancient Sen's Fortress, slayer of heroes who\nventured forth to Anor Londo.\n\nWithout its core, it is a mere hunk of iron,\nand can be equipped as solid protective gear,\nbut its immense weight hinders stamina\nrecovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b4/Golem_Helm.png/revision/latest?cb=20121012081858"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b4/Golem_Helm.png/revision/latest?cb=20121012081858",
+      "poise": " 13.0\n"
     },
     {
       "name": "Golem Leggings",
@@ -8577,7 +8676,8 @@
       "res-bleed": "27",
       "res-curse": "0",
       "description": "Legs of the Iron Golem, guardian of the\nancient Sen's Fortress, slayer of heroes who\nventured forth to Anor Londo.\n\nWithout its core, they are mere hunks of\niron, and can be equipped as solid protective\ngear, but their immense weight hinders\nstamina recovery.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/fc/Golem_Leggings.png/revision/latest?cb=20121012081859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/fc/Golem_Leggings.png/revision/latest?cb=20121012081859",
+      "poise": " 20.0\n"
     },
     {
       "name": "Hard Leather Armor",
@@ -8595,7 +8695,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Armor made of thick leather. Very common\ntype of protective gear, it provides\na sound level of defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9b/Hard_Leather_Armor.png/revision/latest?cb=20120925103052"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9b/Hard_Leather_Armor.png/revision/latest?cb=20120925103052",
+      "poise": " 0.0\n"
     },
     {
       "name": "Hard Leather Boots",
@@ -8613,7 +8714,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Boots made of thick leather. Very common\ntype of protective gear, they provide\na sound level of defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/81/Hard_Leather_Boots.png/revision/latest?cb=20120925103052"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/81/Hard_Leather_Boots.png/revision/latest?cb=20120925103052",
+      "poise": " 0.0\n"
     },
     {
       "name": "Hard Leather Gauntlets",
@@ -8631,7 +8733,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Gauntlets made of thick leather. Very\ncommon type of protective gear, they\nprovide a sound level of defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9c/Hard_Leather_Gauntlets.png/revision/latest?cb=20120925103052"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9c/Hard_Leather_Gauntlets.png/revision/latest?cb=20120925103052",
+      "poise": " 0.0\n"
     },
     {
       "name": "Havel's Armor",
@@ -8649,7 +8752,8 @@
       "res-bleed": "45",
       "res-curse": "22",
       "description": "Armor worn by Havel the Rock's warriors.\nCarved from solid rock, its tremendous weight\nis matched only by the defense it provides.\n\nHavel's warriors never flinched nor retreated\nfrom battle. Those unfortunate enough to face\nthem were inevitably beaten to a pulp.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/23/Havel%27s_Armor.png/revision/latest?cb=20120105031739"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/23/Havel%27s_Armor.png/revision/latest?cb=20120105031739",
+      "poise": " 47.0\n"
     },
     {
       "name": "Havel's Gauntlets",
@@ -8667,7 +8771,8 @@
       "res-bleed": "27",
       "res-curse": "13",
       "description": "Gauntlets worn by Havel the Rock's warriors.\nCarved from solid rock, their\ntremendous weight is matched only by the\ndefense they provide.\n\nHavel's warriors never flinched nor retreated\nfrom battle. Those unfortunate enough to face\nthem were inevitably beaten to a pulp.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/57/Havel%27s_Gauntlets.png/revision/latest?cb=20120105031907"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/57/Havel%27s_Gauntlets.png/revision/latest?cb=20120105031907",
+      "poise": " 28.0\n"
     },
     {
       "name": "Havel's Helm",
@@ -8685,7 +8790,8 @@
       "res-bleed": "18",
       "res-curse": "9",
       "description": "Helm worn by Havel the Rock's warriors.\nCarved from solid rock, its tremendous weight\nis matched only by the defense it provides.\n\nHavel's warriors never flinched nor retreated\nfrom battle. Those unfortunate enough to face\nthem were inevitably beaten to a pulp.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/62/Havel%27s_Helm.png/revision/latest?cb=20120105031648"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/62/Havel%27s_Helm.png/revision/latest?cb=20120105031648",
+      "poise": " 18.0\n"
     },
     {
       "name": "Havel's Leggings",
@@ -8703,7 +8809,8 @@
       "res-bleed": "27",
       "res-curse": "13",
       "description": "Leggings worn by Havel the Rock's warriors.\nCarved from solid rock, their tremendous\nweight is matched only by the defense they\nprovide.\n\nHavel's warriors never flinched nor retreated\nfrom battle. Those unfortunate enough to face\nthem were inevitably beaten to a pulp.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b2/Havel%27s_Leggings.png/revision/latest?cb=20120105031932"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b2/Havel%27s_Leggings.png/revision/latest?cb=20120105031932",
+      "poise": " 28.0\n"
     },
     {
       "name": "Heavy Boots",
@@ -8721,7 +8828,8 @@
       "res-bleed": "14",
       "res-curse": "1",
       "description": "Boots made of thick leather. The boots of the\npyromancers are incredibly tough, on account\nof the rugged grasslands and treacherous\nswamps they must traverse. Their soles are\nnearly impenetrable.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/51/Heavy_Boots.png/revision/latest?cb=20120925102824"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/51/Heavy_Boots.png/revision/latest?cb=20120925102824",
+      "poise": " 0.0\n"
     },
     {
       "name": "Helm of Favor",
@@ -8739,7 +8847,8 @@
       "res-bleed": "11",
       "res-curse": "8",
       "description": "Helm of Lautrec the Embraced,\nrepresenting the goddess Fina's love.\n\nDuring his solitude, he forsook everything,\nfor he believed in the goddess's love for\nhim.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/75/Helm_of_Favor.png/revision/latest?cb=20160526200603"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/75/Helm_of_Favor.png/revision/latest?cb=20160526200603",
+      "poise": " 8.0\n"
     },
     {
       "name": "Helm of Thorns",
@@ -8757,7 +8866,8 @@
       "res-bleed": "10",
       "res-curse": "0",
       "description": "Helm of Kirk, Knight of Thorns and notorious\nmember of the Darkwraiths. A dense patch of\nthorns grows from its surface.\n\nIt is a fitting item for the murderous Kirk,\nfor by simply wearing it and rolling, one can\ndamage enemies.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/eb/Helm_of_Thorns.png/revision/latest?cb=20121009030955"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/eb/Helm_of_Thorns.png/revision/latest?cb=20121009030955",
+      "poise": " 6.0\n"
     },
     {
       "name": "Helm of the Wise",
@@ -8775,7 +8885,8 @@
       "res-bleed": "11",
       "res-curse": "18",
       "description": "A strange helm from the ancient land of Zena,\nbirthplace of the curious dealer Domhnall.\n\nThe two horns are believed to symbolize\nwisdom.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/ab/Helm_of_the_Wise.png/revision/latest?cb=20121009025925"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/ab/Helm_of_the_Wise.png/revision/latest?cb=20121009025925",
+      "poise": " 8.0\n"
     },
     {
       "name": "Hollow Soldier Armor",
@@ -8793,7 +8904,8 @@
       "res-bleed": "18",
       "res-curse": "0",
       "description": "Armor worn by Hollow soldiers. It may be\nold and battered, but its iron construction\nmakes it quite sturdy.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/54/Hollow_Soldier_Armor.png/revision/latest?cb=20120929092903"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/54/Hollow_Soldier_Armor.png/revision/latest?cb=20120929092903",
+      "poise": " 12.0\n"
     },
     {
       "name": "Hollow Soldier Helm",
@@ -8811,7 +8923,8 @@
       "res-bleed": "7",
       "res-curse": "0",
       "description": "Helm worn by Hollow soldiers. It may be old\nand battered, but its iron construction makes\nit quite sturdy.\n\nIt is wise to wear a sturdy form of head\nprotection against arrows and other physical\nthreats.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8f/Hollow_Soldier_Helm.png/revision/latest?cb=20120929092902"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8f/Hollow_Soldier_Helm.png/revision/latest?cb=20120929092902",
+      "poise": " 5.0\n"
     },
     {
       "name": "Hollow Soldier Waistcloth",
@@ -8829,7 +8942,8 @@
       "res-bleed": "10",
       "res-curse": "0",
       "description": "Waistcloth worn by Hollow soldiers. It is so\ntattered that it barely serves its purpose\nanymore.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/53/Hollow_Soldier_Waistcloth.png/revision/latest?cb=20120929092903"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/53/Hollow_Soldier_Waistcloth.png/revision/latest?cb=20120929092903",
+      "poise": " 7.0\n"
     },
     {
       "name": "Hollow Thief's Hood",
@@ -8847,7 +8961,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "Hood worn by Hollow thieves.\nUsed to hide a guilty countenance.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c8/Hollow_Thief%27s_Hood.png/revision/latest?cb=20120929093753"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c8/Hollow_Thief%27s_Hood.png/revision/latest?cb=20120929093753",
+      "poise": " 0.0\n"
     },
     {
       "name": "Hollow Thief's Leather Armor",
@@ -8865,7 +8980,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "Leather armor worn by Hollow thieves. It\nstifles noise and helps its wearer hide in\nthe shadows.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/58/Hollow_Thief%27s_Leather_Armor.png/revision/latest?cb=20120929093753"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/58/Hollow_Thief%27s_Leather_Armor.png/revision/latest?cb=20120929093753",
+      "poise": " 0.0\n"
     },
     {
       "name": "Hollow Thief's Tights",
@@ -8883,7 +8999,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Tights worn by Hollow thieves. They stifle\nnoise and help their wearer hide in the\nshadows.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/35/Hollow_Thief%27s_Tights.png/revision/latest?cb=20120929093754"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/35/Hollow_Thief%27s_Tights.png/revision/latest?cb=20120929093754",
+      "poise": " 0.0\n"
     },
     {
       "name": "Hollow Warrior Armor",
@@ -8901,7 +9018,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Armor worn by Hollow warriors. It is made of\nthick leather that is tattered with age.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3c/Hollow_Warrior_Armor.png/revision/latest?cb=20120929093754"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3c/Hollow_Warrior_Armor.png/revision/latest?cb=20120929093754",
+      "poise": " 8.0\n"
     },
     {
       "name": "Hollow Warrior Helm",
@@ -8919,7 +9037,8 @@
       "res-bleed": "5",
       "res-curse": "0",
       "description": "Helm worn by Hollow warriors. Although it is\nmade of iron, it is old, battered and worn\nout.\n\nIt is wise to wear a sturdy form of head\nprotection against arrows and other physical\nthreats.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e3/Hollow_Warrior_Helm.png/revision/latest?cb=20120929093754"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e3/Hollow_Warrior_Helm.png/revision/latest?cb=20120929093754",
+      "poise": " 3.0\n"
     },
     {
       "name": "Hollow Warrior Waistcloth",
@@ -8937,7 +9056,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "Waistcloth worn by Hollow warriors. It is so\ntattered that it barely serves its purpose\nanymore.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/ba/Hollow_Warrior_Waistcloth.png/revision/latest?cb=20120929093754"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/ba/Hollow_Warrior_Waistcloth.png/revision/latest?cb=20120929093754",
+      "poise": " 5.0\n"
     },
     {
       "name": "Holy Robe",
@@ -8955,7 +9075,8 @@
       "res-bleed": "24",
       "res-curse": "0",
       "description": "Robe donned by men of the cloth. Though plain\nto the eye, its hardy fabric repels rain and\nkeeps the body warm.\n\nThose dissatisfied with church teachings\nmust test their faith by going on a spiritual\njourney. Such is the ritual self-purification\nof the Way of White.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/holy_robe.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Holy Trousers",
@@ -8973,7 +9094,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "Trousers donned by men of the cloth. Though\nplain to the eye, their hardy fabric\nrepels rain and keeps the body warm.\n\nThose dissatisfied with church teachings\nmust test their faith by going on a spiritual\njourney. Such is the ritual self-purification\nof the Way of White.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Holy_Trousers.png/revision/latest?cb=20120925102822"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Holy_Trousers.png/revision/latest?cb=20120925102822",
+      "poise": " 0.0\n"
     },
     {
       "name": "Iron Bracelet",
@@ -8991,7 +9113,8 @@
       "res-bleed": "11",
       "res-curse": "2",
       "description": "Bracelets of Solaire of Astora, Knight of\nSunlight. Of high quality, but lacking any\nparticular powers.\n\nSolaire's incredible prowess must have\ncome from rigorous training alone, for\nhis equipment exhibits no special traits.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/40/Iron_Bracelet.png/revision/latest?cb=20121009030759"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/40/Iron_Bracelet.png/revision/latest?cb=20121009030759",
+      "poise": " 7.0\n"
     },
     {
       "name": "Iron Helm",
@@ -9009,7 +9132,8 @@
       "res-bleed": "12",
       "res-curse": "2",
       "description": "Helm of Solaire of Astora, Knight of\nSunlight. Of high quality, but lacking any\nparticular powers.\n\nSolaire's incredible prowess must have\ncome from rigorous training alone, for\nhis equipment exhibits no special traits.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/59/Iron_Helm.png/revision/latest?cb=20160526200516"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/59/Iron_Helm.png/revision/latest?cb=20160526200516",
+      "poise": " 8.0\n"
     },
     {
       "name": "Iron Leggings",
@@ -9027,7 +9151,8 @@
       "res-bleed": "14",
       "res-curse": "2",
       "description": "Leggings of Solaire of Astora, Knight of\nSunlight. Of high quality, but lacking any\nparticular powers.\n\nSolaire's incredible prowess must have\ncome from rigorous training alone, for\nhis equipment exhibits no special traits.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/54/Iron_Leggings.png/revision/latest?cb=20160526200402"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/54/Iron_Leggings.png/revision/latest?cb=20160526200402",
+      "poise": " 9.0\n"
     },
     {
       "name": "Knight Armor",
@@ -9045,7 +9170,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Armor of a lower-rank knight. Despite the\nthin metal used, the grooved texture gives\nit added protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f9/Knight_Armor.png/revision/latest?cb=20120925102823"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f9/Knight_Armor.png/revision/latest?cb=20120925102823",
+      "poise": " 20.0\n"
     },
     {
       "name": "Knight Gauntlets",
@@ -9063,7 +9189,8 @@
       "res-bleed": "8",
       "res-curse": "0",
       "description": "Gauntlets of a lower-rank knight. Despite the\nthin metal used, the grooved texture gives\nthem added protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/5a/Knight_Gauntlets.png/revision/latest?cb=20120925102823"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/5a/Knight_Gauntlets.png/revision/latest?cb=20120925102823",
+      "poise": " 6.0\n"
     },
     {
       "name": "Knight Helm",
@@ -9081,7 +9208,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Helm of a lower-rank knight. Despite the\nthin metal used, the grooved texture gives\nit added protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/63/Knight_Helm.png/revision/latest?cb=20120925102823"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/63/Knight_Helm.png/revision/latest?cb=20120925102823",
+      "poise": " 8.0\n"
     },
     {
       "name": "Knight Leggings",
@@ -9099,7 +9227,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Leggings of a lower-rank knight. Despite the\nthin metal used, the grooved texture gives\nthem added protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/34/Knight_Leggings.png/revision/latest?cb=20120925102823"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/34/Knight_Leggings.png/revision/latest?cb=20120925102823",
+      "poise": " 12.0\n"
     },
     {
       "name": "Leather Armor",
@@ -9117,7 +9246,8 @@
       "res-bleed": "21",
       "res-curse": "0",
       "description": "Armor made of soft leather.\nVery common type of protective gear.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3c/Leather_Armor.png/revision/latest?cb=20120925102822"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3c/Leather_Armor.png/revision/latest?cb=20120925102822",
+      "poise": " 0.0\n"
     },
     {
       "name": "Leather Boots",
@@ -9135,7 +9265,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Boots made of soft leather.\nVery common type of protective gear.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/fd/Leather_Boots.png/revision/latest?cb=20120925102823"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/fd/Leather_Boots.png/revision/latest?cb=20120925102823",
+      "poise": " 0.0\n"
     },
     {
       "name": "Leather Gauntlets",
@@ -9153,7 +9284,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Gauntlets made of soft leather. One of the\nmore common kinds of protective gear.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/12/Leather_Gauntlets.png/revision/latest?cb=20120929092544"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/12/Leather_Gauntlets.png/revision/latest?cb=20120929092544",
+      "poise": " 5.0\n"
     },
     {
       "name": "Leather Gloves",
@@ -9171,7 +9303,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Gloves made of soft leather.\nVery common type of protective gear.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/ff/Leather_Gloves.png/revision/latest?cb=20120925102822"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/ff/Leather_Gloves.png/revision/latest?cb=20120925102822",
+      "poise": " 0.0\n"
     },
     {
       "name": "Leggings of Favor",
@@ -9189,7 +9322,8 @@
       "res-bleed": "15",
       "res-curse": "14",
       "description": "Leggings of Lautrec the Embraced,\nrepresenting the goddess Fina's love.\n\nDuring his solitude, he forsook everything,\nfor he believed in the goddess's love for\nhim.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/91/Leggings_of_Favor.png/revision/latest?cb=20160526200547"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/91/Leggings_of_Favor.png/revision/latest?cb=20160526200547",
+      "poise": " 11.0\n"
     },
     {
       "name": "Leggings of Thorns",
@@ -9207,7 +9341,8 @@
       "res-bleed": "16",
       "res-curse": "0",
       "description": "Leggings of Kirk, Knight of Thorns and\nnotorious member of the Darkwraiths. A dense\npatch of thorns grows from their surface.\n\nThey are fitting items for the murderous\nKirk, for by simply wearing them and rolling,\none can damage enemies.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/69/Leggings_of_Thorns.png/revision/latest?cb=20121009030956"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/69/Leggings_of_Thorns.png/revision/latest?cb=20121009030956",
+      "poise": " 9.0\n"
     },
     {
       "name": "Mage Smith Boots",
@@ -9225,7 +9360,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Boots worn by proper mage smiths who\nstudied at Vinheim Dragon School.\n\nMage smiths learn their craft alongside\nsorcerers, but apply their sorcery to\nforging weapons with magic embers.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/49/Mage_Smith_Boots.png/revision/latest?cb=20121216184421"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/49/Mage_Smith_Boots.png/revision/latest?cb=20121216184421",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mage Smith Coat",
@@ -9243,7 +9379,8 @@
       "res-bleed": "16",
       "res-curse": "0",
       "description": "Coat worn by proper mage smiths who\nstudied at Vinheim Dragon School.\n\nMage smiths learn their craft alongside\nsorcerers, but apply their sorcery to\nforging weapons with magic embers.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f6/Mage_Smith_Coat.png/revision/latest?cb=20130201232856"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f6/Mage_Smith_Coat.png/revision/latest?cb=20130201232856",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mage Smith Gauntlets",
@@ -9261,7 +9398,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Gauntlets worn by proper mage smiths who\nstudied at Vinheim Dragon School.\n\nMage smiths learn their craft alongside\nsorcerers, but apply their sorcery to\nforging weapons with magic embers.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/fa/Mage_Smith_Gauntlets.png/revision/latest?cb=20121216184439"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/fa/Mage_Smith_Gauntlets.png/revision/latest?cb=20121216184439",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mage Smith Hat",
@@ -9279,7 +9417,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "Hat worn by proper mage smiths who\nstudied at Vinheim Dragon School.\n\nMage smiths learn their craft alongside\nsorcerers, but apply their sorcery to\nforging weapons with magic embers.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e9/Mage_Smith_Hat.png/revision/latest?cb=20121216184515"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e9/Mage_Smith_Hat.png/revision/latest?cb=20121216184515",
+      "poise": " 0.0\n"
     },
     {
       "name": "Maiden Gloves",
@@ -9297,7 +9436,8 @@
       "res-bleed": "14",
       "res-curse": "5",
       "description": "White gloves worn by traveling maidens.\nThey are part of their formal attire,\nregardless of rank.\n\nWhile soft and well-made, they do not\noffer much in the way of defense, making\nthem ill-suited to use in battle.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c0/Maiden_Gloves.png/revision/latest?cb=20120929093755"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c0/Maiden_Gloves.png/revision/latest?cb=20120929093755",
+      "poise": " 0.0\n"
     },
     {
       "name": "Maiden Hood",
@@ -9315,7 +9455,8 @@
       "res-bleed": "9",
       "res-curse": "3",
       "description": "White hood worn by traveling maidens. It is\npart of their formal attire, regardless of\nrank.\n\nIt is soft and well-made, but does not offer\nmuch in the way of defense, making it ill-\nsuited to use in battle.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/15/Maiden_Hood.png/revision/latest?cb=20120929093755"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/15/Maiden_Hood.png/revision/latest?cb=20120929093755",
+      "poise": " 0.0\n"
     },
     {
       "name": "Maiden Robe",
@@ -9333,7 +9474,8 @@
       "res-bleed": "23",
       "res-curse": "8",
       "description": "White robe worn by traveling maidens. It is\npart of their formal attire, regardless of\nrank.\n\nIt is soft and well-made, but does not offer\nmuch in the way of defense, making it ill-\nsuited to use in battle.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/d2/Maiden_Robe.png/revision/latest?cb=20120929093755"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/d2/Maiden_Robe.png/revision/latest?cb=20120929093755",
+      "poise": " 0.0\n"
     },
     {
       "name": "Maiden Skirt",
@@ -9351,7 +9493,8 @@
       "res-bleed": "29",
       "res-curse": "10",
       "description": "White skirt worn by traveling maidens.\nIt is part of their formal attire, regardless\nof rank.\n\nIt is soft and well-made, but does not offer\nmuch in the way of defense, making it ill-\nsuited to use in battle.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/74/Maiden_Skirt.png/revision/latest?cb=20120929093755"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/74/Maiden_Skirt.png/revision/latest?cb=20120929093755",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mask of Velka",
@@ -9369,7 +9512,8 @@
       "res-bleed": "9",
       "res-curse": "20",
       "description": "Mask worn by pardoners serving Velka,\nthe Goddess of Sin.\n\nThe pardoners listen to the confessions of\nsinners, urging reflection and salvation.\nTheir masks symbolize separation from\nworldly desires.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/82/Mask_of_Velka.png/revision/latest?cb=20120929092542"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/82/Mask_of_Velka.png/revision/latest?cb=20120929092542",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mask of the Child",
@@ -9387,7 +9531,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "One of the three masks of the Pinwheel,\nthe necromancer who stole the power of the\nGravelord, and reigns over the Catacombs.\n\nThis mask, belonging to the naive child,\nslightly raises stamina recovery speed.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8e/Mask_of_the_Child.png/revision/latest?cb=20121012005033"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8e/Mask_of_the_Child.png/revision/latest?cb=20121012005033",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mask of the Father",
@@ -9405,7 +9550,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "One of the three masks of the Pinwheel,\nthe necromancer who stole the power of the\nGravelord, and reigns over the Catacombs.\n\nThis mask, belonging to the valiant father,\nslightly raises equipment load.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/95/Mask_of_the_Father.png/revision/latest?cb=20121013005228"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/95/Mask_of_the_Father.png/revision/latest?cb=20121013005228",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mask of the Mother",
@@ -9423,7 +9569,8 @@
       "res-bleed": "10",
       "res-curse": "0",
       "description": "One of the three masks of the Pinwheel,\nthe necromancer who stole the power of the\nGravelord, and reigns over the Catacombs.\n\nThis mask, belonging to the kindly mother,\nslightly raises HP.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a1/Mask_of_the_Mother.png/revision/latest?cb=20121013005228"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a1/Mask_of_the_Mother.png/revision/latest?cb=20121013005228",
+      "poise": " 0.0\n"
     },
     {
       "name": "Mask of the Sealer",
@@ -9441,7 +9588,8 @@
       "res-bleed": "8",
       "res-curse": "8",
       "description": "Mask of the sorcerers who flooded New Londo\nto seal away the Darkwraiths, and the\nFour Kings who descended into Dark.\n\nIt symbolizes their resolve to keep the seal\nshut forever and their atonement for all who\nwere sacrificed, but two of the three forsook\nNew Londo upon tiring of their duty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e6/Mask_of_the_Sealer.png/revision/latest?cb=20120929092855"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e6/Mask_of_the_Sealer.png/revision/latest?cb=20120929092855",
+      "poise": " 0.0\n"
     },
     {
       "name": "Moonlight Gloves",
@@ -9459,7 +9607,8 @@
       "res-bleed": "4",
       "res-curse": "5",
       "description": "Gloves of the Dark Sun Gwyndolin, protector\nof the forsaken city of Anor Londo.\n\nThe power of the moon was strong in\nGwyndolin, and thus he was raised as a\ndaughter. His magic garb is silk-thin,\nand hardly provides any physical defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/71/Moonlight_Gloves.png/revision/latest?cb=20120929093757"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/71/Moonlight_Gloves.png/revision/latest?cb=20120929093757",
+      "poise": " 0.0\n"
     },
     {
       "name": "Moonlight Robe",
@@ -9477,7 +9626,8 @@
       "res-bleed": "23",
       "res-curse": "31",
       "description": "Robe of the Dark Sun Gwyndolin, protector\nof the forsaken city of Anor Londo.\n\nThe power of the moon was strong in\nGwyndolin, and thus he was raised as a\ndaughter. His magic garb is silk-thin,\nand hardly provides any physical defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/42/Moonlight_Robe.png/revision/latest?cb=20120929093756"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/42/Moonlight_Robe.png/revision/latest?cb=20120929093756",
+      "poise": " 0.0\n"
     },
     {
       "name": "Moonlight Waistcloth",
@@ -9495,7 +9645,8 @@
       "res-bleed": "14",
       "res-curse": "18",
       "description": "Waistcloth of the Dark Sun Gwyndolin,\nprotector of the forsaken city of Anor Londo.\n\nThe power of the moon was strong in\nGwyndolin, and thus he was raised as a\ndaughter. His magic garb is silk-thin,\nand hardly provides any physical defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ea/Moonlight_Waistcloth.png/revision/latest?cb=20120929093757"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ea/Moonlight_Waistcloth.png/revision/latest?cb=20120929093757",
+      "poise": " 0.0\n"
     },
     {
       "name": "Ornstein's Armor",
@@ -9513,7 +9664,8 @@
       "res-bleed": "38",
       "res-curse": "18",
       "description": "Armor of the dragonslayer Ornstein, who\nguards the cathedral in the forsaken city of\nAnor Londo.\n\nOrnstein is believed to be the captain of the\nFour Knights. His golden lion armor is imbued\nwith the power of lightning and should\nprovide good protection against it.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/58/Ornstein%27s_Armor.png/revision/latest?cb=20121009030800"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/58/Ornstein%27s_Armor.png/revision/latest?cb=20121009030800",
+      "poise": " 19.0\n"
     },
     {
       "name": "Ornstein's Gauntlets",
@@ -9531,7 +9683,8 @@
       "res-bleed": "12",
       "res-curse": "6",
       "description": "Gauntlets of the dragonslayer Ornstein, who\nguards the cathedral in the forsaken city of\nAnor Londo.\n\nOrnstein is believed to be the captain of the\nFour Knights. His golden lion gauntlets are\nimbued with the power of lightning and should\nprovide good protection against it.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/78/Ornstein%27s_Gauntlets.png/revision/latest?cb=20121009030800"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/78/Ornstein%27s_Gauntlets.png/revision/latest?cb=20121009030800",
+      "poise": " 6.0\n"
     },
     {
       "name": "Ornstein's Helm",
@@ -9549,7 +9702,8 @@
       "res-bleed": "18",
       "res-curse": "8",
       "description": "Helm of the dragonslayer Ornstein, who\nguards the cathedral in the forsaken city of\nAnor Londo.\n\nOrnstein is believed to be the captain of the\nFour Knights. His golden lion helm is imbued\nwith the power of lightning and should\nprovide good protection against it.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/aa/Ornstein%27s_Helm.png/revision/latest?cb=20121009030800"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/aa/Ornstein%27s_Helm.png/revision/latest?cb=20121009030800",
+      "poise": " 9.0\n"
     },
     {
       "name": "Ornstein's Leggings",
@@ -9567,7 +9721,8 @@
       "res-bleed": "22",
       "res-curse": "12",
       "description": "Leggings of the dragonslayer Ornstein, who\nguards the cathedral in the forsaken city of\nAnor Londo.\n\nOrnstein is believed to be the captain of the\nFour Knights. His golden lion leggings are\nimbued with the power of lightning and should\nprovide good protection against it.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/64/Ornstein%27s_Leggings.png/revision/latest?cb=20121009030801"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/64/Ornstein%27s_Leggings.png/revision/latest?cb=20121009030801",
+      "poise": " 11.0\n"
     },
     {
       "name": "Painting Guardian Gloves",
@@ -9585,7 +9740,8 @@
       "res-bleed": "18",
       "res-curse": "10",
       "description": "Gloves worn by the alabaster-clothed \nguardians of the paintings in Anor Londo.\nOffer substantial protection versus magic.\n\nThey have guarded the Great Paintings of\nAriamis for ages, passing their duty down\nthrough the generations, but the reason for\ndoing so passed from all memory long ago.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/70/Painting_Guardian_Gloves.png/revision/latest?cb=20120929093758"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/70/Painting_Guardian_Gloves.png/revision/latest?cb=20120929093758",
+      "poise": " 0.0\n"
     },
     {
       "name": "Painting Guardian Hood",
@@ -9603,7 +9759,8 @@
       "res-bleed": "12",
       "res-curse": "6",
       "description": "Hood worn by the alabaster-clothed guardians\nof the paintings in Anor Londo. Offers\nsubstantial protection versus magic.\n\nThey have guarded the Great Paintings of\nAriamis for ages, passing their duty down\nthrough the generations, but the reason for\ndoing so passed from all memory long ago.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4b/Painting_Guardian_Hood.png/revision/latest?cb=20120929093758"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4b/Painting_Guardian_Hood.png/revision/latest?cb=20120929093758",
+      "poise": " 0.0\n"
     },
     {
       "name": "Painting Guardian Robe",
@@ -9621,7 +9778,8 @@
       "res-bleed": "32",
       "res-curse": "16",
       "description": "Robe worn by the alabaster-clothed guardians\nof the paintings in Anor Londo. Offers\nsubstantial protection versus magic.\n\nThey have guarded the Great Paintings of\nAriamis for ages, passing their duty down\nthrough the generations, but the reason for\ndoing so passed from all memory long ago.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/painting_guardian_robe.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Painting Guardian Waistcloth",
@@ -9639,7 +9797,8 @@
       "res-bleed": "21",
       "res-curse": "10",
       "description": "Waistcloth worn by the alabaster-clothed \nguardians of the paintings in Anor Londo.\nOffers substantial protection versus magic.\n\nThey have guarded the Great Paintings of\nAriamis for ages, passing their duty down\nthrough the generations, but the reason for\ndoing so passed from all memory long ago.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2c/Painting_Guardian_Waistcloth.png/revision/latest?cb=20120929093758"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2c/Painting_Guardian_Waistcloth.png/revision/latest?cb=20120929093758",
+      "poise": " 0.0\n"
     },
     {
       "name": "Paladin Armor",
@@ -9657,7 +9816,8 @@
       "res-bleed": "34",
       "res-curse": "57",
       "description": "Armor of Leeroy, Paladin of the Catacombs.\n\nLong ago, the Way of White produced its\nfirst Undead, a paladin in golden armor.\nWith the legendary treasures Grant and\nSanctus, Leeroy set out for Lordran,\nLand of the Gods, in the first Undead\nmission of the Way of White.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1c/Paladin_Armor.png/revision/latest?cb=20121009030801"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1c/Paladin_Armor.png/revision/latest?cb=20121009030801",
+      "poise": " 20.0\n"
     },
     {
       "name": "Paladin Gauntlets",
@@ -9675,7 +9835,8 @@
       "res-bleed": "21",
       "res-curse": "34",
       "description": "Gauntlets of Leeroy, Paladin of the\nCatacombs.\n\nLong ago, the Way of White produced its\nfirst Undead, a paladin in golden armor.\nWith the legendary treasures Grant and\nSanctus, Leeroy set out for Lordran,\nLand of the Gods, in the first Undead\nmission of the Way of White.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3a/Paladin_Gauntlets.png/revision/latest?cb=20121009030801"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3a/Paladin_Gauntlets.png/revision/latest?cb=20121009030801",
+      "poise": " 12.0\n"
     },
     {
       "name": "Paladin Helm",
@@ -9693,7 +9854,8 @@
       "res-bleed": "13",
       "res-curse": "22",
       "description": "Helm of Leeroy, Paladin of the Catacombs.\n\nLong ago, the Way of White produced its\nfirst Undead, a paladin in golden armor.\nWith the legendary treasures Grant and\nSanctus, Leeroy set out for Lordran,\nLand of the Gods, in the first Undead\nmission of the Way of White.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9e/Paladin_Helm.png/revision/latest?cb=20121009030801"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9e/Paladin_Helm.png/revision/latest?cb=20121009030801",
+      "poise": " 8.0\n"
     },
     {
       "name": "Paladin Leggings",
@@ -9711,7 +9873,8 @@
       "res-bleed": "21",
       "res-curse": "34",
       "description": "Leggings of Leeroy, Paladin of the Catacombs.\n\nLong ago, the Way of White produced its\nfirst Undead, a paladin in golden armor.\nWith the legendary treasures Grant and\nSanctus, Leeroy set out for Lordran,\nLand of the Gods, in the first Undead\nmission of the Way of White.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dc/Paladin_Leggings.png/revision/latest?cb=20121009030802"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dc/Paladin_Leggings.png/revision/latest?cb=20121009030802",
+      "poise": " 12.0\n"
     },
     {
       "name": "Pharis's Hat",
@@ -9729,7 +9892,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "Broad-brimmed hat favored by the archer hero\nPharis.\n\nPharis was an accomplished archer, and though\nhe was human, he ranked alongside Hawkeye\nGough, one of the Four Knights of Lord\nGwyn. His hat is universally popular among\nchildren.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/phariss_hat.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Priest's Hat",
@@ -9747,7 +9911,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Distinctive hat worn only by Way of White\npriests in Thorolund.\n\nIt is simply meant to show their position\nwithin the hierarchy. It holds almost no\nmeaning in the land of Lordran.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/53/Priest%27s_Hat.png/revision/latest?cb=20120925102821"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/53/Priest%27s_Hat.png/revision/latest?cb=20120925102821",
+      "poise": " 0.0\n"
     },
     {
       "name": "Robe of the Channelers",
@@ -9765,7 +9930,8 @@
       "res-bleed": "38",
       "res-curse": "0",
       "description": "Robe of the Channelers, sorcerers that serve\nSeath the Scaleless. Even after the onset of\nSeath's madness, the \"snatchers,\" as they\nwere often called, ventured to far lands to\nfind suitable human specimens.\n\nThe heaviest of protective gear for\nsorcerers, and imbued with magic.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/76/Robe_of_the_Channelers.png/revision/latest?cb=20121009030405"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/76/Robe_of_the_Channelers.png/revision/latest?cb=20121009030405",
+      "poise": " 12.0\n"
     },
     {
       "name": "Robe of the Great Lord",
@@ -9783,7 +9949,8 @@
       "res-bleed": "30",
       "res-curse": "40",
       "description": "Robe of Gwyn, Lord of Cinder, who linked\nthe First Flame.\n\nLord Gwyn, bearer of the ultimate soul,\ndivided that power among his clan before\nlinking the flame. When he departed, he\nleft only with his greatsword, his garb,\nand the crown, now bereft of power.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/31/Robe_of_the_Great_Lord.png/revision/latest?cb=20120929092901"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/31/Robe_of_the_Great_Lord.png/revision/latest?cb=20120929092901",
+      "poise": " 0.0\n"
     },
     {
       "name": "Royal Helm",
@@ -9801,7 +9968,8 @@
       "res-bleed": "16",
       "res-curse": "0",
       "description": "Helm of Vamos, skeleton blacksmith of the\nCatacombs. Partially made of gold, and\nconfers high resistance overall.\n\nThe helm is believed to belong to an ancient\nroyal line, but only Vamos would know for\nsure, and he shall never speak again.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9c/Royal_Helm.png/revision/latest?cb=20121013005229"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9c/Royal_Helm.png/revision/latest?cb=20121013005229",
+      "poise": " 8.0\n"
     },
     {
       "name": "Sack",
@@ -9819,7 +9987,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Bloodstained patchwork sack by the Undead\nman-eating cook lurking in the Depths. Two\neyeholes have been haphazardly cut out.\n\nIt is unexpectedly soft and comfortable to\nwear, but it is probably near meaningless\nin terms of defense.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/61/Sack.png/revision/latest?cb=20120308065104"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/6/61/Sack.png/revision/latest?cb=20120308065104",
+      "poise": " 0.0\n"
     },
     {
       "name": "Sage Robe",
@@ -9837,7 +10006,8 @@
       "res-bleed": "49",
       "res-curse": "0",
       "description": "Robe worn by Big Hat Logan. It is said to\nhave been from his apprentice days at Dragon\nSchool, but it is so worn out, no one knows\nwhat it originally looked like.\n\nLogan, who cared little for his appearance,\nno doubt ever bothered to change out of it.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/ab/Sage_Robe.png/revision/latest?cb=20120929092541"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/ab/Sage_Robe.png/revision/latest?cb=20120929092541",
+      "poise": " 0.0\n"
     },
     {
       "name": "Shadow Garb",
@@ -9855,7 +10025,8 @@
       "res-bleed": "39",
       "res-curse": "0",
       "description": "Black cloth garb worn by spooks from an\nEastern land. Designed so as not to hinder\ntheir unique form of martial arts.\n\nWhile it sacrifices defense for the sake of\ngreater mobility, it does offer resistance\nto bleeding and poison among other things,\nperhaps due to the nature of espionage.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f4/Shadow_Garb.png/revision/latest?cb=20120929094131"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f4/Shadow_Garb.png/revision/latest?cb=20120929094131",
+      "poise": " 0.0\n"
     },
     {
       "name": "Shadow Gauntlets",
@@ -9873,7 +10044,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Black cloth gauntlets worn by spooks from an\nEastern land. Designed so as not to hinder\ntheir unique form of martial arts.\n\nWhile they sacrifice defense for the sake of\ngreater mobility, they do offer resistance\nto bleeding and poison among other things,\nperhaps due to the nature of espionage.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2f/Shadow_Gauntlets.png/revision/latest?cb=20120929094131"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2f/Shadow_Gauntlets.png/revision/latest?cb=20120929094131",
+      "poise": " 0.0\n"
     },
     {
       "name": "Shadow Leggings",
@@ -9891,7 +10063,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Black cloth leggings worn by spooks from an\nEastern land. Designed so as not to hinder\ntheir unique form of martial arts.\n\nWhile they sacrifice defense for the sake of\ngreater mobility, they do offer resistance\nto bleeding and poison among other things,\nperhaps due to the nature of espionage.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4e/Shadow_Leggings.png/revision/latest?cb=20120929094132"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/4e/Shadow_Leggings.png/revision/latest?cb=20120929094132",
+      "poise": " 0.0\n"
     },
     {
       "name": "Shadow Mask",
@@ -9909,7 +10082,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "Black cloth mask worn by spooks from an\nEastern land. Designed so as not to hinder\ntheir unique form of martial arts.\n\nWhile it sacrifices defense for the sake of\ngreater mobility, it does offer resistance\nto bleeding and poison among other things,\nperhaps due to the nature of their duties.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/7e/Shadow_Mask.png/revision/latest?cb=20120929094131"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/7e/Shadow_Mask.png/revision/latest?cb=20120929094131",
+      "poise": " 0.0\n"
     },
     {
       "name": "Silver Knight Armor",
@@ -9927,7 +10101,8 @@
       "res-bleed": "24",
       "res-curse": "2",
       "description": "Armor of the Silver Knights who protect Anor\nLondo.\n\nWhen Lord Gwyn departed to link the Fire,\nhis knights split into two groups. The Silver\nKnights remained in the forsaken capital in\nthe service of their goddess.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/72/Silver_Knight_Armor.png/revision/latest?cb=20121009030954"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/72/Silver_Knight_Armor.png/revision/latest?cb=20121009030954",
+      "poise": " 19.0\n"
     },
     {
       "name": "Silver Knight Gauntlets",
@@ -9945,7 +10120,8 @@
       "res-bleed": "11",
       "res-curse": "1",
       "description": "Gauntlets of the Silver Knights who protect\nAnor Londo.\n\nWhen Lord Gwyn departed to link the Fire,\nhis knights split into two groups. The Silver\nKnights remained in the forsaken capital in\nthe service of their goddess.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/5d/Silver_Knight_Gauntlets.png/revision/latest?cb=20121009030954"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/5d/Silver_Knight_Gauntlets.png/revision/latest?cb=20121009030954",
+      "poise": " 9.0\n"
     },
     {
       "name": "Silver Knight Helm",
@@ -9963,7 +10139,8 @@
       "res-bleed": "9",
       "res-curse": "1",
       "description": "Helm of the Silver Knights who protect Anor\nLondo.\n\nWhen Lord Gwyn departed to link the Fire,\nhis knights split into two groups. The Silver\nKnights remained in the forsaken capital in\nthe service of their goddess.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/0d/Silver_Knight_Helm.png/revision/latest?cb=20121009030954"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/0d/Silver_Knight_Helm.png/revision/latest?cb=20121009030954",
+      "poise": " 8.0\n"
     },
     {
       "name": "Silver Knight Leggings",
@@ -9981,7 +10158,8 @@
       "res-bleed": "14",
       "res-curse": "1",
       "description": "Leggings of the Silver Knights who protect\nAnor Londo.\n\nWhen Lord Gwyn departed to link the Fire,\nhis knights split into two groups. The Silver\nKnights remained in the forsaken capital in\nthe service of their goddess.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/35/Silver_Knight_Leggings.png/revision/latest?cb=20121009030954"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/35/Silver_Knight_Leggings.png/revision/latest?cb=20121009030954",
+      "poise": " 11.0\n"
     },
     {
       "name": "Six-Eyed Helm of the Channelers",
@@ -9999,7 +10177,8 @@
       "res-bleed": "15",
       "res-curse": "0",
       "description": "Helm of the Channelers, sorcerers that serve\nSeath the Scaleless. The six eyes arranged\nin two vertical columns compensate for\nSeath's lack of sight.\n\nThe heaviest of protective gear for\nsorcerers, and imbued with magic.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e1/Six-Eyed_Helm_of_the_Channelers.png/revision/latest?cb=20121009030404"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/e1/Six-Eyed_Helm_of_the_Channelers.png/revision/latest?cb=20121009030404",
+      "poise": " 5.0\n"
     },
     {
       "name": "Smough's Armor",
@@ -10017,7 +10196,8 @@
       "res-bleed": "54",
       "res-curse": "9",
       "description": "Armor of Smough, the Executioner, protector\nof the cathedral at the forsaken city of Anor\nLondo. It offers extremely high defense\nand can be worn by humans, but not\nwithout great difficulty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f8/Smough%27s_Armor.png/revision/latest?cb=20121012081859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f8/Smough%27s_Armor.png/revision/latest?cb=20121012081859",
+      "poise": " 35.0\n"
     },
     {
       "name": "Smough's Gauntlets",
@@ -10035,7 +10215,8 @@
       "res-bleed": "33",
       "res-curse": "5",
       "description": "Gauntlets of Smough, the Executioner, protector\nof the cathedral at the forsaken city of Anor\nLondo. It offers extremely high defense\nand can be worn by humans, but not\nwithout great difficulty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ec/Smough%27s_Gauntlets.png/revision/latest?cb=20121012081859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ec/Smough%27s_Gauntlets.png/revision/latest?cb=20121012081859",
+      "poise": " 21.0\n"
     },
     {
       "name": "Smough's Helm",
@@ -10053,7 +10234,8 @@
       "res-bleed": "21",
       "res-curse": "5",
       "description": "Helm of Smough, the Executioner, protector\nof the cathedral at the forsaken city of Anor\nLondo. It offers extremely high defense\nand can be worn by humans, but not\nwithout great difficulty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8f/Smough%27s_Helm.png/revision/latest?cb=20121012081859"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/8f/Smough%27s_Helm.png/revision/latest?cb=20121012081859",
+      "poise": " 14.0\n"
     },
     {
       "name": "Smough's Leggings",
@@ -10071,7 +10253,8 @@
       "res-bleed": "33",
       "res-curse": "5",
       "description": "Leggings of Smough, the Executioner, protector\nof the cathedral at the forsaken city of Anor\nLondo. It offers extremely high defense\nand can be worn by humans, but not\nwithout great difficulty.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/56/Smough%27s_Leggings.png/revision/latest?cb=20121012081900"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/5/56/Smough%27s_Leggings.png/revision/latest?cb=20121012081900",
+      "poise": " 21.0\n"
     },
     {
       "name": "Sorcerer Boots",
@@ -10089,7 +10272,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Boots worn by proper sorcerers who studied\nat Vinheim Dragon School.\n\nThe majority take pride in having studied at\nthe academy and look down on breaking the\nformal dress code established for sorcerers.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/98/Sorcerer_Boots.png/revision/latest?cb=20120925103049"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/98/Sorcerer_Boots.png/revision/latest?cb=20120925103049",
+      "poise": " 0.0\n"
     },
     {
       "name": "Sorcerer Cloak",
@@ -10107,7 +10291,8 @@
       "res-bleed": "16",
       "res-curse": "0",
       "description": "Cloak worn by proper sorcerers who\nstudied at Vinheim Dragon School.\n\nThe majority take pride in having studied at\nthe academy and look down on breaking the\nformal dress code established for sorcerers.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/sorcerer_cloak.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Sorcerer Gauntlets",
@@ -10125,7 +10310,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Gauntlets worn by proper sorcerers who\nstudied at Vinheim Dragon School.\n\nThe majority take pride in having studied at\nthe academy and look down on breaking the\nformal dress code established for sorcerers.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/wanderer_manchette.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Sorcerer Hat",
@@ -10143,7 +10329,8 @@
       "res-bleed": "6",
       "res-curse": "0",
       "description": "Hat worn by proper sorcerers who\nstudied at Vinheim Dragon School.\n\nThe majority take pride in having studied at\nthe academy and look down on breaking the\nformal dress code established for sorcerers.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/sorcerer_hat.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Standard Helm",
@@ -10161,7 +10348,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "A sturdy helm made of iron. Very common\ntype of protective gear, it provides\na sound level of defense.\n\nIt is wise to wear a sturdy form of head\nprotection against arrows and other physical\nthreats.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/48/Standard_Helm.png/revision/latest?cb=20120925103052"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/4/48/Standard_Helm.png/revision/latest?cb=20120925103052",
+      "poise": " 5.0\n"
     },
     {
       "name": "Steel Armor",
@@ -10179,7 +10367,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Armor of the Knights of Berenike, known for\ntheir heavy armaments and armor.\n\nCountless Knights of Berenike, once\nextolled as the mightiest of mighty, became\nUndead and ventured to Lordran. But their\njourney was for naught, as they went Hollow,\nand became a threat to all Undead.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f8/Steel_Armor.png/revision/latest?cb=20121009030955"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/f/f8/Steel_Armor.png/revision/latest?cb=20121009030955",
+      "poise": " 23.0\n"
     },
     {
       "name": "Steel Gauntlets",
@@ -10197,7 +10386,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Gauntlets of the Knights of Berenike, known\nfor their heavy armaments and armor.\n\nCountless Knights of Berenike, once\nextolled as the mightiest of mighty, became\nUndead and ventured to Lordran. But their\njourney was for naught, as they went Hollow,\nand became a threat to all Undead.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3d/Steel_Gauntlets.png/revision/latest?cb=20121009030955"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3d/Steel_Gauntlets.png/revision/latest?cb=20121009030955",
+      "poise": " 14.0\n"
     },
     {
       "name": "Steel Helm",
@@ -10215,7 +10405,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Helm of the Knights of Berenike, known for\ntheir heavy armaments and armor.\n\nCountless Knights of Berenike, once\nextolled as the mightiest of mighty, became\nUndead and ventured to Lordran. But their\njourney was for naught, as they went Hollow,\nand became a threat to all Undead.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/72/Steel_Helm.png/revision/latest?cb=20121009030955"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/72/Steel_Helm.png/revision/latest?cb=20121009030955",
+      "poise": " 9.0\n"
     },
     {
       "name": "Steel Leggings",
@@ -10233,7 +10424,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Leggings of the Knights of Berenike, known\nfor their heavy armaments and armor.\n\nCountless Knights of Berenike, once\nextolled as the mightiest of mighty, became\nUndead and ventured to Lordran. But their\njourney was for naught, as they went Hollow,\nand became a threat to all Undead.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9a/Steel_Leggings.png/revision/latest?cb=20121009030955"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9a/Steel_Leggings.png/revision/latest?cb=20121009030955",
+      "poise": " 14.0\n"
     },
     {
       "name": "Stone Armor",
@@ -10251,7 +10443,8 @@
       "res-bleed": "45",
       "res-curse": "0",
       "description": "Moss-covered armor of the Stone Knight,\ndefender of the Darkroot Garden.\n\nThe Stone Knight is a product of ancient\nmagic, and although this armor is also imbued\nwith magic, it is incredibly heavy.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2f/Stone_Armor.png/revision/latest?cb=20121012081900"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/2f/Stone_Armor.png/revision/latest?cb=20121012081900",
+      "poise": " 39.0\n"
     },
     {
       "name": "Stone Gauntlets",
@@ -10269,7 +10462,8 @@
       "res-bleed": "27",
       "res-curse": "0",
       "description": "Moss-covered gauntlets of the Stone Knight,\ndefender of the Darkroot Garden.\n\nThe Stone Knight is a product of ancient\nmagic, and although these gauntlets are also\nimbued with magic, they are incredibly heavy.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/78/Stone_Gauntlets.png/revision/latest?cb=20121012081900"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/78/Stone_Gauntlets.png/revision/latest?cb=20121012081900",
+      "poise": " 23.0\n"
     },
     {
       "name": "Stone Helm",
@@ -10287,7 +10481,8 @@
       "res-bleed": "17",
       "res-curse": "0",
       "description": "Moss-covered helm of the Stone Knight,\ndefender of the Darkroot Garden.\n\nThe Stone Knight is a product of ancient\nmagic, and although this helm is also imbued\nwith magic, it is incredibly heavy.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Stone_Helm.png/revision/latest?cb=20121012081900"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Stone_Helm.png/revision/latest?cb=20121012081900",
+      "poise": " 15.0\n"
     },
     {
       "name": "Stone Leggings",
@@ -10305,7 +10500,8 @@
       "res-bleed": "27",
       "res-curse": "0",
       "description": "Moss-covered leggings of the Stone Knight,\ndefender of the Darkroot Garden.\n\nThe Stone Knight is a product of ancient\nmagic, and although these leggings are also\nimbued with magic, they are incredible heavy.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9d/Stone_Leggings.png/revision/latest?cb=20121012081901"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/9d/Stone_Leggings.png/revision/latest?cb=20121012081901",
+      "poise": " 23.0\n"
     },
     {
       "name": "Sunlight Maggot",
@@ -10323,7 +10519,8 @@
       "res-bleed": "0",
       "res-curse": "0",
       "description": "A loathsome parasite that inhabits Lost\nIzalith. It is completely immobile, yet still\nlives.\n\nWhen worn on the head, it emanates\nblinding light, which is why it is known\nas a Sunlight Maggot.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/92/Sunlight_Maggot.png/revision/latest?cb=20120123073947"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/9/92/Sunlight_Maggot.png/revision/latest?cb=20120123073947",
+      "poise": " 0.0\n"
     },
     {
       "name": "Symbol of Avarice",
@@ -10341,7 +10538,8 @@
       "res-bleed": "10",
       "res-curse": "0",
       "description": "Monster head resembling a treasure chest.\nOnce an ancient god, it is said this is the\nsymbol of shame imposed on a long lost clan,\nexiled for the sin of avarice.\n\nWearing this slightly raises soul absorption\nand item discovery, but also affects its\nwearer with the curse of the branded.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/82/Symbol_of_Avarice.png/revision/latest?cb=20121013005229"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/82/Symbol_of_Avarice.png/revision/latest?cb=20121013005229",
+      "poise": " 15.0\n"
     },
     {
       "name": "Tattered Cloth Hood",
@@ -10359,7 +10557,8 @@
       "res-bleed": "9",
       "res-curse": "1",
       "description": "Hood worn by pyromancers of the Great Swamp.\nThough it appears tattered, it is actually\nquite strong.\n\nTheir attire offers substantial protection\nagainst poison, fire, and other forces of\nnature out in the hinterlands where they\nwere driven.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/tattered_cloth_hood.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Tattered Cloth Manchette",
@@ -10377,7 +10576,8 @@
       "res-bleed": "14",
       "res-curse": "1",
       "description": "Manchette worn by pyromancers of the Great\nSwamp. Though it appears tattered, it is\nactually quite strong.\n\nTheir attire offers substantial protection\nagainst poison, fire, and other forces of\nnature out in the hinterlands where they\nwere driven.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/af/Tattered_Cloth_Manchette.png/revision/latest?cb=20120925102824"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/af/Tattered_Cloth_Manchette.png/revision/latest?cb=20120925102824",
+      "poise": " 0.0\n"
     },
     {
       "name": "Tattered Cloth Robe",
@@ -10395,7 +10595,8 @@
       "res-bleed": "23",
       "res-curse": "2",
       "description": "Robe worn by pyromancers of the Great Swamp.\nThough it appears tattered, it is actually\nquite strong.\n\nTheir attire offers substantial protection\nagainst poison, fire, and other forces of\nnature out in the hinterlands where they\nwere driven.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/17/Tattered_Cloth_Robe.png/revision/latest?cb=20120925102824"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/17/Tattered_Cloth_Robe.png/revision/latest?cb=20120925102824",
+      "poise": " 0.0\n"
     },
     {
       "name": "Thief Mask",
@@ -10413,7 +10614,8 @@
       "res-bleed": "9",
       "res-curse": "0",
       "description": "Mask of sinners. They hide their faces,\nstifle their voices and hide in the shadows.\nIt does not provide much in the way of\ndefense.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/thief_mask.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Traveling Boots",
@@ -10431,7 +10633,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Boots worn by Big Hat Logan. They are\nindistinguishable from the ordinary kind\nworn by travelers.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/d2/Traveling_Boots.png/revision/latest?cb=20120929092541"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/d2/Traveling_Boots.png/revision/latest?cb=20120929092541",
+      "poise": " 0.0\n"
     },
     {
       "name": "Traveling Gloves",
@@ -10449,7 +10652,8 @@
       "res-bleed": "5",
       "res-curse": "0",
       "description": "Thick, sturdy gloves made for travelers on\nextended journeys.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/traveling_gloves_1.png"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3b/Disambig_gray.png/revision/latest/scale-to-width-down/30?cb=20131202051328",
+      "poise": "0"
     },
     {
       "name": "Traveling Gloves",
@@ -10467,7 +10671,8 @@
       "res-bleed": "14",
       "res-curse": "0",
       "description": "Gloves worn by Big Hat Logan. They are\nindistinguishable from the ordinary kind\nworn by travelers.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/traveling_gloves_1.png"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/3/3b/Disambig_gray.png/revision/latest/scale-to-width-down/30?cb=20131202051328",
+      "poise": "0"
     },
     {
       "name": "Waistcloth of the Channelers",
@@ -10485,7 +10690,8 @@
       "res-bleed": "23",
       "res-curse": "0",
       "description": "Waistcloth of the Channelers, sorcerers that\nserve Seath the Scaleless. Even after the\nonset of Seath's madness, the \"snatchers,\"\nas they were often called, ventured to far\nlands to find suitable human specimens.\n\nThe heaviest of protective gear for\nsorcerers, and imbued with magic.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/11/Waistcloth_of_the_Channelers.png/revision/latest?cb=20121009030405"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/11/Waistcloth_of_the_Channelers.png/revision/latest?cb=20121009030405",
+      "poise": " 7.0\n"
     },
     {
       "name": "Wanderer Boots",
@@ -10503,7 +10709,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Boots of an aimless traveler.\n\nMade from sturdy leather. A must-have for\nlong journeys.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a2/Wanderer_Boots.png/revision/latest?cb=20120925103051"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/a2/Wanderer_Boots.png/revision/latest?cb=20120925103051",
+      "poise": " 0.0\n"
     },
     {
       "name": "Wanderer Coat",
@@ -10521,7 +10728,8 @@
       "res-bleed": "21",
       "res-curse": "0",
       "description": "Coat of an aimless traveler. Made from sturdy\nleather and quilting.\n\nBattle comes with the territory when one\nwanders the land, and this coat provides a\ncertain degree of protection.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/af/Wanderer_Coat.png/revision/latest?cb=20120925103051"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/a/af/Wanderer_Coat.png/revision/latest?cb=20120925103051",
+      "poise": " 0.0\n"
     },
     {
       "name": "Wanderer Hood",
@@ -10539,7 +10747,8 @@
       "res-bleed": "8",
       "res-curse": "0",
       "description": "Hood of an aimless traveler. Made from sturdy\nleather, it offers protection versus wind\nand rain.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/wanderer_hood.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Wanderer Manchette",
@@ -10557,7 +10766,8 @@
       "res-bleed": "13",
       "res-curse": "0",
       "description": "Manchette of an aimless traveler.\n\nMade from sturdy leather and protects the\nhands.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c2/Wanderer_Manchette.png/revision/latest?cb=20120925103051"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/c2/Wanderer_Manchette.png/revision/latest?cb=20120925103051",
+      "poise": " 0.0\n"
     },
     {
       "name": "Witch Cloak",
@@ -10575,7 +10785,8 @@
       "res-bleed": "36",
       "res-curse": "12",
       "description": "Cloak of the rogue witch Beatrice.\n\nAlmost all magic users that employ catalysts\nstudied at Dragon School, but Beatrice is\none of the few exceptions. She braved the\nAbyss but did not live to tell of her ordeal.",
-      "image": "https://darksouls.wiki.fextralife.com/file/Dark-Souls/witch_cloak.png"
+      "image": "data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D",
+      "poise": " 0.0\n"
     },
     {
       "name": "Witch Gloves",
@@ -10593,7 +10804,8 @@
       "res-bleed": "16",
       "res-curse": "6",
       "description": "Gloves of the rogue witch Beatrice.\n\nAlmost all magic users that employ catalysts\nstudied at Dragon School, but Beatrice is\none of the few exceptions. She braved the\nAbyss but did not live to tell of her ordeal.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ed/Witch_Gloves.png/revision/latest?cb=20120929094132"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/e/ed/Witch_Gloves.png/revision/latest?cb=20120929094132",
+      "poise": " 0.0\n"
     },
     {
       "name": "Witch Hat",
@@ -10611,7 +10823,8 @@
       "res-bleed": "10",
       "res-curse": "11",
       "description": "Hat of the rogue witch Beatrice.\n\nAlmost all magic users that employ a wand\nstudied at Dragon School, but Beatrice is\none of the few exceptions. She braved the\nAbyss but did not live to tell of her ordeal.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Witch_Hat.png/revision/latest?cb=20120929094132"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/18/Witch_Hat.png/revision/latest?cb=20120929094132",
+      "poise": " 0.0\n"
     },
     {
       "name": "Witch Skirt",
@@ -10629,7 +10842,8 @@
       "res-bleed": "23",
       "res-curse": "8",
       "description": "Skirt of the rogue witch Beatrice.\n\nAlmost all magic users that employ catalysts\nstudied at Dragon School, but Beatrice is\none of the few exceptions. She braved the\nAbyss but did not live to tell of her ordeal.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1e/Witch_Skirt.png/revision/latest?cb=20120929094132"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/1/1e/Witch_Skirt.png/revision/latest?cb=20120929094132",
+      "poise": " 0.0\n"
     },
     {
       "name": "Xanthous Crown",
@@ -10647,7 +10861,8 @@
       "res-bleed": "8",
       "res-curse": "35",
       "description": "A mysterious item once worn by the Xanthous \nKing Jeremiah, the legendary exile. No one\nknows where it came from.\n\nThe crown bears high-quality cloth which is\nquite soft to the touch, but its bright\nyellow color stings the eyes, and it is\nclearly far too big.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/05/Xanthous_Crown.png/revision/latest?cb=20120929094133"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/05/Xanthous_Crown.png/revision/latest?cb=20120929094133",
+      "poise": " 0.0\n"
     },
     {
       "name": "Xanthous Gloves",
@@ -10665,7 +10880,8 @@
       "res-bleed": "12",
       "res-curse": "0",
       "description": "Mysterious items once worn by the Xanthous\nKing Jeremiah, the legendary exile. No one\nknows where they came from.\n\nThey may be tattered, but their bright yellow\ncolor still stings the eyes.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/cf/Xanthous_Gloves.png/revision/latest?cb=20120929094133"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/c/cf/Xanthous_Gloves.png/revision/latest?cb=20120929094133",
+      "poise": " 0.0\n"
     },
     {
       "name": "Xanthous Overcoat",
@@ -10683,7 +10899,8 @@
       "res-bleed": "22",
       "res-curse": "0",
       "description": "A mysterious item once worn by the Xanthous\nKing Jeremiah, the legendary exile. No one\nknows where it came from.\n\nIt may be tattered, but its bright yellow\ncolor still stings the eyes.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Xanthous_Overcoat.png/revision/latest?cb=20120929094133"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/0/04/Xanthous_Overcoat.png/revision/latest?cb=20120929094133",
+      "poise": " 0.0\n"
     },
     {
       "name": "Xanthous Waistcloth",
@@ -10701,7 +10918,8 @@
       "res-bleed": "22",
       "res-curse": "0",
       "description": "A mysterious item once worn by the Xanthous\nKing Jeremiah, the legendary exile. No one\nknows where it came from.\n\nIt may be tattered, but its bright yellow\ncolor still stings the eyes.",
-      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dd/Xanthous_Waistcloth.png/revision/latest?cb=20120929094134"
+      "image": "https://vignette.wikia.nocookie.net/darksouls/images/d/dd/Xanthous_Waistcloth.png/revision/latest?cb=20120929094134",
+      "poise": " 0.0\n"
     }
   ],
   "rings": [
