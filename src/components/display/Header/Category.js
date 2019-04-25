@@ -9,7 +9,7 @@ import ringsI from './icons/rings.png';
 import upgradesI from './icons/upgrades.png';
 import weaponsI from './icons/weapons.png';
 
-const Category = ({ type, setCat }) => {
+const Category = ({ type, setCat, category, data }) => {
   const images = {
     ammo: ammoI,
     armor: armorI,
@@ -21,21 +21,26 @@ const Category = ({ type, setCat }) => {
     weapons: weaponsI
   };
   return (
-    <CategoryWrapper>
-      <img onClick={setCat} src={images[type]} />
+    <CategoryWrapper active={category == data[type]}>
+      <img className="cat" onClick={setCat} src={images[type]} />
     </CategoryWrapper>
   );
 };
 
 const CategoryWrapper = styled.nav`
-  display: grid;
+  display: flex;
   align-items: center;
   justify-content: center;
   padding: 5px 0;
-  width: auto;
-  background-color: grey;
+  max-width: auto;
+  /* border: ${props => (props.active ? 'solid orange 3px' : '0')}; */
   img {
-    width: 100%;
+    max-height: 100%;
+    width: auto;
+    filter: ${props =>
+      props.active
+        ? 'contrast(80%) brightness(1.5) sepia(100%)'
+        : 'contrast(75%) brightness(1.3)'};
   }
 `;
 

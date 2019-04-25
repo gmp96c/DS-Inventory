@@ -7,13 +7,14 @@ import Description from './components/description/Description';
 import Stats from './components/stats/Stats.js';
 const App = () => {
   const [category, setCategory] = useState([]);
-  const [selected, setSelected] = useState({});
+  const [selectedItem, setSelectedItem] = useState({});
+  const [selectedCategory, setSelectedCategory] = useState({});
   const [showStats, setStats] = useState(false);
   useEffect(() => {
     setCategory(data.consumables);
   }, [data]);
   useEffect(() => {
-    setSelected(category[0]);
+    setSelectedItem(category[0]);
   }, [category]);
 
   if (
@@ -31,22 +32,25 @@ const App = () => {
     <MainWrapper stats={showStats}>
       <Display
         category={category}
-        selected={selected}
+        selected={selectedItem}
         setCat={setCategory}
-        setSel={setSelected}
+        setSel={setSelectedItem}
         data={data}
       />
-      <Description item={selected} category={category} />
-      {showStats ? <Stats item={selected} category={category} /> : ''}
+      <Description item={selectedItem} category={category} />
+      {showStats ? <Stats item={selectedItem} category={category} /> : ''}
     </MainWrapper>
   );
 };
 
 const MainWrapper = styled.main`
   display: grid;
-  max-height: 100vh;
-  background: black;
-  grid-template-columns: 1.5fr 2fr;
+  height: calc(100vh - 200px);
+  background-image: url('https://i.imgur.com/iZAzP6X.jpg');
+  background-size: cover;
+  box-shadow: 0px 0px 11px 8px rgba(232, 139, 0, 0.3);
+
+  grid-template-columns: 1fr 0.5fr;
   grid-template-rows: 1fr 1fr;
   grid-template-areas: ${props =>
     props.stats
@@ -55,7 +59,7 @@ const MainWrapper = styled.main`
       : `"grid desc" 
     "grid desc"`};
   margin: 0;
-  padding: 0;
+  padding: 25px;
   overflow: hidden;
 `;
 

@@ -5,3 +5,31 @@ body {
   background-color: black;
   user-select: none;
 }
+p {
+  font-size: 120%;
+}
+#back {
+  margin: 75px;
+  height: calc(100vh-150px);
+  width: calc(100vw-150px);
+}
+#back::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('http://images.pushsquare.com/ecfd8d3cb5cde/dark-souls-remastered-fire-keeper-souls-locations-guide-1.original.jpg');
+  background-size: cover;
+  filter: blur(4px) brightness(50%);
+  z-index: -1;
+}
+#back-inside {
+  /* This will make it stack on top of the ::before */
+  position: relative;
+}
+.icon {
+  height: 28px;
+  width: 28px;
+}

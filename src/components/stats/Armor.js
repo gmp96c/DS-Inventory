@@ -1,31 +1,31 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const Armor = item => {
+const Armor = ({ item }) => {
   return (
     <ArmorWrapper>
       <ul>
-        <li>
-          <img src="https://vignette.wikia.nocookie.net/darksouls/images/5/51/Dmg_phy.png" />
-          {item['atk-physical']}
+        {/* <li>
+          <StatRow
+            statArr={['def-physical', 'def-blow', 'def-slash', 'def-thrust']}
+            item={item}
+          />
         </li>
         <li>
-          <img src="https://vignette.wikia.nocookie.net/darksouls/images/1/1f/Dmg_mag.png" />
-          {item['atk-magic']}
+          <StatRow
+            statArr={['def-magic', 'def-fire', 'def-lightning']}
+            item={item}
+          />
         </li>
         <li>
-          <img src="https://vignette.wikia.nocookie.net/darksouls/images/3/3a/Dmg_fire.png" />
-          {item['atk-fire']}
+          <StatRow
+            statArr={['poise', 'res-bleed', 'res-poison', 'res-curse']}
+            item={item}
+          />
         </li>
         <li>
-          <img src="https://vignette.wikia.nocookie.net/darksouls/images/1/1f/Dmg_lght.png" />
-          {item['atk-lightning']}
-        </li>
-        <li>
-          <img src="https://vignette.wikia.nocookie.net/darksouls/images/2/2b/Dmg_crit.png" />
-          {item['critical']}
-        </li>
-        <li>Attack Type: {item['Attack Type']}</li>
+          <StatRow statArr={['weight', 'durability']} item={item} />
+        </li> */}
       </ul>
     </ArmorWrapper>
   );
@@ -33,5 +33,12 @@ const Armor = item => {
 
 const ArmorWrapper = styled.div`
   display: grid;
+  ul {
+    display: flex;
+    flex-direction: row;
+    li {
+      display: grid;
+    }
+  }
 `;
 export default Armor;

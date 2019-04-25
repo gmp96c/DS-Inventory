@@ -3,6 +3,7 @@ import style from 'styled-components';
 import Item from './Item';
 
 const Grid = ({ category, selected, setSel }) => {
+  console.log(selected);
   return (
     <GridWrapper>
       {category.map((el, i) => {
@@ -20,12 +21,13 @@ const Grid = ({ category, selected, setSel }) => {
 };
 const GridWrapper = style.div`
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(110px,1fr));
+  grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
   align-content: center;
-  grid-gap:2px;
-  overflow-x: scroll;
+  grid-gap:10px;
+  padding: 10px;
+  overflow-y: scroll;
   overflow-x: hidden;
-align-content: start;
-  height: 90vh;
+  align-content: start;
+  flex-grow: 1;
 `;
 export default Grid;

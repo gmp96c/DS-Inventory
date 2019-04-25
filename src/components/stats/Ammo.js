@@ -1,19 +1,20 @@
 import React from 'react';
 import styled from 'styled-components';
-import StatRow from './StatRow';
+import StatRow from './StatFlat';
 const Ammo = ({ item }) => {
   console.log();
   return (
     <AmmoWrapper>
-      <StatRow
+      {/* <StatRow
         statArr={[
-          ['atk-physical', item['atk-physical']],
-          ['atk-magic', item['atk-magic']],
-          ['atk-fire', item['atk-fire']],
-          ['atk-lightning', item['atk-lightning']],
-          ['critical', item['critical']]
+          'atk-physical',
+          'atk-magic',
+          'atk-fire',
+          'atk-lightning',
+          'critical'
         ]}
-      />
+        item={item}
+      /> */}
       Attack Type: {item['Attack Type']}
     </AmmoWrapper>
   );

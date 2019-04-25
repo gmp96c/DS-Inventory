@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-const StatRow = ({ statArr }) => {
-  console.log(statArr);
+let isVertical = false;
+const StatTall = ({ children, title, statArr, item, vertical }) => {
   const imgKey = {
     'atk-physical':
       'https://vignette.wikia.nocookie.net/darksouls/images/5/51/Dmg_phy.png',
@@ -51,28 +51,84 @@ const StatRow = ({ statArr }) => {
       'https://vignette.wikia.nocookie.net/darksouls/images/9/9d/Def_atk_slash.png',
     'def-thrust':
       'https://vignette.wikia.nocookie.net/darksouls/images/3/3c/Def_atk_thrust.png',
-    'def-thunder':
+    'def-lightning':
       'https://vignette.wikia.nocookie.net/darksouls/images/2/21/Def_sorc_lght.png',
     poise:
-      'https://vignette.wikia.nocookie.net/darksouls/images/7/78/Def_res_poise.png'
+      'https://vignette.wikia.nocookie.net/darksouls/images/7/78/Def_res_poise.png',
+    durability:
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_other_dura.png',
+    weight:
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_other_weig.png',
+    'res-bleed':
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_res_bleed.png',
+    'res-curse':
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_res_curse.png',
+    'res-poison':
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_res_poison.png',
+    'aux-bleed':
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_res_bleed.png',
+    'aux-occult':
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/occult_dark_souls.jpg',
+    'aux-poison':
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_res_poison.png',
+    'aux-divine':
+      'https://darksouls.wiki.fextralife.com/file/Dark-Souls/icon_res_divine.png'
   };
   return (
-    <StatStyle>
-      <ul>
+    <StatTallStyle>
+      <span>
+        <span>{title || ''}</span>{' '}
+        {title == 'ATK' ? <span>{item['atk-type']}</span> : ''}
+      </span>
+      <ul className="stat-section">
         {statArr.map(el => {
           return (
-            <li>
-              <img src={imgKey[el[0]]} />
-              {el[1]}
+            <li className="attribute" key={item.name + el}>
+              <span>
+                <img src={imgKey[el]} />
+                {labelReturn(el)}
+              </span>
+              <span className="value">{item[el]}</span>
             </li>
           );
         })}
+        {children}
       </ul>
-    </StatStyle>
+    </StatTallStyle>
   );
 };
-const StatStyle = styled.div`
+const StatTallStyle = styled.div`
   display: flex;
+
+  width: 80%;
   flex-direction: column;
+  .stat-section {
+    padding: 0;
+    list-style-type: none;
+  }
+  .attribute {
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  span {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 `;
-export default StatRow;
+export default StatTall;
+
+function labelReturn(type) {
+  let split = type.split('-');
+  if (split.length > 1) {
+    if (split[0] == 'def' || split[0] == 'atk' || split[0] == 'res') {
+      return split[1][0].toUpperCase() + split[1].slice(1);
+    } else {
+      return '';
+    }
+  }
+  return type[0].toUpperCase() + type.slice(1);
+}
