@@ -20,6 +20,7 @@ const App = () => {
   if (
     category == data.weapons ||
     category == data.armor ||
+    category == data.magic ||
     category == data.ammo
   ) {
     if (!showStats) {
@@ -51,7 +52,7 @@ const MainWrapper = styled.main`
   box-shadow: 0px 0px 11px 8px rgba(232, 139, 0, 0.3);
 
   grid-template-columns: 1fr 0.5fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: 1fr auto;
   grid-template-areas: ${props =>
     props.stats
       ? `"grid desc" 

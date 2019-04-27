@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { platform } from 'os';
 const Item = ({ selected, image, setSel }) => {
-  console.log(selected);
   return (
     <ItemWrapper onClick={setSel} selected={selected}>
       <img src={image} />

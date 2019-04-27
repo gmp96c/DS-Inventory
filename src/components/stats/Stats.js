@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import Ammo from './Ammo';
 import Armor from './Armor';
 import Weapon from './Weapon';
+import Magic from './Magic';
 const Stats = ({ item, category }) => {
   return (
     <StatWrap>
@@ -10,6 +11,8 @@ const Stats = ({ item, category }) => {
         <Ammo item={item} />
       ) : category.length == 181 ? (
         <Weapon item={item} />
+      ) : category.length == 71 ? (
+        <Magic item={item} />
       ) : (
         <Armor item={item} />
       )}
@@ -17,7 +20,9 @@ const Stats = ({ item, category }) => {
   );
 };
 const StatWrap = styled.div`
+  display: flex;
+  width: 100%;
   grid-area: stats;
-  background: yellow;
+  align-self: end;
 `;
 export default Stats;

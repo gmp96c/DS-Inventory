@@ -3,7 +3,6 @@ import style from 'styled-components';
 import Item from './Item';
 
 const Grid = ({ category, selected, setSel }) => {
-  console.log(selected);
   return (
     <GridWrapper>
       {category.map((el, i) => {

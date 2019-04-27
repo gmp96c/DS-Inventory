@@ -76,8 +76,8 @@ const StatFlat = ({ children, title, statArr, item, vertical }) => {
   };
   isVertical = vertical;
   return (
-    <StatFlatStyle vertical={vertical}>
-      {title || ''}
+    <StatFlatStyle bottom={title == 'Aux Effects'} vertical={vertical}>
+      <span> {title || ''}</span>
       <ul className="stat-section">
         {statArr.map(el => {
           return (
@@ -91,42 +91,31 @@ const StatFlat = ({ children, title, statArr, item, vertical }) => {
           );
         })}
       </ul>
-      {children}
     </StatFlatStyle>
   );
 };
+const border = '1px rgba(91, 49, 10, 0.78) solid';
+
 const StatFlatStyle = styled.div`
   .stat-section {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    border-top: ${border};
+    border-bottom: ${props => (props.bottom ? 'none' : border)};
+
+    padding-top: 3px;
+    padding-bottom: 3px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
     list-style-type: none;
     padding: 0;
     .attribute {
       text-align: center;
-      display: flex;
+      display: grid;
       flex-grow: 1;
-      .value {
-        display: flex;
-        justify-content: center;
-        flex-grow: 1;
-      }
+      grid-template-columns: auto 1fr;
     }
   }
-  .additional {
-    padding: 0;
-    flex-direction: column;
-    list-style: none;
-    li {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-    }
-  }
-  span {
-    display: flex;
-    justify-content: start;
-    align-items: center;
+  .attribute > * {
+    place-self: center;
   }
 `;
 export default StatFlat;

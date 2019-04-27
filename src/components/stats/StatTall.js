@@ -77,15 +77,14 @@ const StatTall = ({ children, title, statArr, item, vertical }) => {
   return (
     <StatTallStyle>
       <span>
-        <span>{title || ''}</span>{' '}
-        {title == 'ATK' ? <span>{item['atk-type']}</span> : ''}
+        <span>{title || ''}</span>
       </span>
       <ul className="stat-section">
         {statArr.map(el => {
           return (
             <li className="attribute" key={item.name + el}>
               <span>
-                <img src={imgKey[el]} />
+                <img className="icon" src={imgKey[el]} />
                 {labelReturn(el)}
               </span>
               <span className="value">{item[el]}</span>
@@ -97,18 +96,23 @@ const StatTall = ({ children, title, statArr, item, vertical }) => {
     </StatTallStyle>
   );
 };
+const border = '1px rgba(91, 49, 10, 0.78) solid';
+
 const StatTallStyle = styled.div`
   display: flex;
-
-  width: 80%;
   flex-direction: column;
+  li {
+    border-bottom: ${border};
+  }
+  li:first-of-type {
+    border-top: ${border};
+  }
   .stat-section {
     padding: 0;
     list-style-type: none;
   }
   .attribute {
     width: 100%;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
