@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const Display = ({ category, selected, data, setCat, setSel }) => {
   return (
     <DisplayWrap>
-      <Header category={category} setCat={setCat} data={data} />
+      <Header id="header" category={category} setCat={setCat} data={data} />
       <Grid category={category} selected={selected} setSel={setSel} />
     </DisplayWrap>
   );
@@ -14,8 +14,8 @@ const Display = ({ category, selected, data, setCat, setSel }) => {
 const DisplayWrap = styled.div`
   height: inherit;
   grid-area: grid;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto 1fr;
 `;
 export default Display;

@@ -23,13 +23,22 @@ const Header = ({ setCat, data, category }) => {
 
 const HeaderWrap = style.header`
 display: grid;
-justify-content: center;
-grid-template-columns:repeat(8,1fr);
+grid-template-columns:repeat(8,10%);
 grid-gap: 10px;
-height: 10%;
-max-width:auto;
-padding-bottom:15px;
-background-color: rgba(114,114,114,.3)
+background-color: rgba(114,114,114,.3);
+padding:10px;
+align-items:center;
+align-content:center;
+justify-content:space-around;
+max-height:10vh;
+@media (max-width: 950px){
+    height: auto;
+    grid-gap: 3px;
+}
+// @media (max-width: 1100px){
+//   height: auto;
+//   grid-gap: 3px;
+// }
 `;
 
 export default Header;

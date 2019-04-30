@@ -90,7 +90,8 @@ const Weapon = ({ item }) => {
 };
 const border = '1px rgba(91, 49, 10, 0.78) solid';
 const WeaponWrapper = styled.div`
-width: 100%;
+  width: 100%;
+  padding: 0;
   .icon {
     margin-right: 5px;
     margin-bottom: 4px;
@@ -111,8 +112,8 @@ width: 100%;
       align-items: center;
     }
   }
-  .additional li:last-of-type{
-    border-bottom:${border};
+  .additional li:last-of-type {
+    border-top: ${border};
   }
   .addition {
     grid-area: additional;
@@ -122,10 +123,10 @@ width: 100%;
   .container {
     grid-auto-rows: 0;
     grid-auto-columns: 0;
-    padding: 15px;
     font-size: 120%;
-    padding-bottom: 0;
+    padding: 0;
     margin-bottom: 0;
+    margin-top: 0;
     list-style-type: none;
     display: grid;
     justify-content: center;
@@ -151,6 +152,9 @@ width: 100%;
     }
     .aux {
       grid-area: aux;
+      ul {
+        padding-top: 2px;
+      }
       border: ${border};
       border-top: none;
     }
@@ -169,8 +173,9 @@ width: 100%;
     padding-top: 8px;
     padding: 5px;
     width: 95%;
-
   }
+  @media (max-width: 390px) {
+    font-size: 100%;
   }
 `;
 export default Weapon;

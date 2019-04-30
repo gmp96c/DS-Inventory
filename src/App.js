@@ -53,6 +53,7 @@ const MainWrapper = styled.main`
 
   grid-template-columns: 1fr 0.5fr;
   grid-template-rows: 1fr auto;
+  grid-gap: 25px;
   grid-template-areas: ${props =>
     props.stats
       ? `"grid desc" 
@@ -62,6 +63,22 @@ const MainWrapper = styled.main`
   margin: 0;
   padding: 25px;
   overflow: hidden;
+  @media (max-width: 1500px) {
+    height: calc(100vh - 50px);
+  }
+  @media (max-width: 1100px) {
+    height: auto;
+    grid-template-columns: 1fr;
+    grid-template-areas: ${props =>
+      props.stats
+        ? `"desc" 
+    "stats"
+    "grid"`
+        : `"desc"
+    "grid"`};
+    grid-template-rows: ${props =>
+      props.stats ? `auto auto 1fr` : `auto 1fr`};
+  }
 `;
 
 ReactDOM.render(<App />, document.getElementById('root'));

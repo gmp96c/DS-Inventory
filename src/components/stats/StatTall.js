@@ -39,7 +39,7 @@ const StatTall = ({ children, title, statArr, item, vertical }) => {
       'https://vignette.wikia.nocookie.net/darksouls/images/4/4b/Para_faith.png',
     'fth-req':
       'https://vignette.wikia.nocookie.net/darksouls/images/4/4b/Para_faith.png',
-    'def-blow':
+    'def-strike':
       'https://vignette.wikia.nocookie.net/darksouls/images/e/e6/Def_atk_strike.png',
     'def-fire':
       'https://vignette.wikia.nocookie.net/darksouls/images/c/c7/Def_sorc_fire.png',
@@ -81,15 +81,32 @@ const StatTall = ({ children, title, statArr, item, vertical }) => {
       </span>
       <ul className="stat-section">
         {statArr.map(el => {
-          return (
-            <li className="attribute" key={item.name + el}>
-              <span>
-                <img className="icon" src={imgKey[el]} />
-                {labelReturn(el)}
-              </span>
-              <span className="value">{item[el]}</span>
-            </li>
-          );
+          {
+            if (el != 'empty') {
+              return (
+                <li
+                  className={`attribute ${
+                    ['def-strike', 'def-slash', 'def-thrust'].includes(el)
+                      ? 'indent'
+                      : ''
+                  }`}
+                  key={item.name + el}
+                >
+                  <span>
+                    <img className="icon" src={imgKey[el]} />
+                    {labelReturn(el)}
+                  </span>
+                  <span className="value">{item[el]}</span>
+                </li>
+              );
+            } else {
+              return (
+                <li className="empty">
+                  <span />
+                </li>
+              );
+            }
+          }
         })}
         {children}
       </ul>
@@ -122,10 +139,14 @@ const StatTallStyle = styled.div`
     justify-content: space-between;
     align-items: center;
   }
+  .empty {
+    height: 20px;
+  }
 `;
 export default StatTall;
 
 function labelReturn(type) {
+  type = type || 'empty';
   let split = type.split('-');
   if (split.length > 1) {
     if (split[0] == 'def' || split[0] == 'atk' || split[0] == 'res') {

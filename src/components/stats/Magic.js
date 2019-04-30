@@ -41,7 +41,6 @@ span{
 
 width: 100%;
 padding-right: 50px;
-padding-bottom: 100px;
 align-items:flex-start;
 justify-content:flex-end;
 `;

@@ -20,9 +20,14 @@ const Stats = ({ item, category }) => {
   );
 };
 const StatWrap = styled.div`
+  justify-self: center;
+
   display: flex;
+  height: 100%;
   width: 100%;
   grid-area: stats;
+  align-items: center;
+  justify-content: center;
   align-self: end;
 `;
 export default Stats;

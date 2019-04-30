@@ -22,7 +22,7 @@ const Category = ({ type, setCat, category, data }) => {
   };
   return (
     <CategoryWrapper active={category == data[type]}>
-      <img className="cat" onClick={setCat} src={images[type]} />
+      <img href="#header" className="cat" onClick={setCat} src={images[type]} />
     </CategoryWrapper>
   );
 };
@@ -31,12 +31,16 @@ const CategoryWrapper = styled.nav`
   display: flex;
   align-items: center;
   justify-content: center;
+  justify-items:center;
+  align-content: center;
+  height:70%;
   padding: 5px 0;
-  max-width: auto;
   /* border: ${props => (props.active ? 'solid orange 3px' : '0')}; */
-  img {
-    max-height: 100%;
-    width: auto;
+  .cat{
+    height: auto;
+    max-width:100%;
+
+    max-height:100px;
     filter: ${props =>
       props.active
         ? 'contrast(80%) brightness(1.5) sepia(100%)'

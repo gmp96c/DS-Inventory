@@ -4,7 +4,13 @@ import { platform } from 'os';
 const Item = ({ selected, image, setSel }) => {
   return (
     <ItemWrapper onClick={setSel} selected={selected}>
-      <img src={image} />
+      <img
+        onClick={() => {
+          console.log('works');
+          window.scroll(0, 0);
+        }}
+        src={image}
+      />
     </ItemWrapper>
   );
 };

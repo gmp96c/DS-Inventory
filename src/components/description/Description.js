@@ -1,39 +1,63 @@
 import React from 'react';
 import style from 'styled-components';
 import Item from '../display/Grid/Item';
+
 const Description = ({ item }) => {
-  let current = item || {};
-  return (
-    <DescWrap>
-      <h1>{current.name || ''}</h1>
-      <div className="desc">
-        <Lines text={current.description} />
-      </div>
-    </DescWrap>
-  );
+  if (!item.name) {
+    return <div />;
+  } else {
+    return (
+      <DescWrap>
+        <h1>
+          <a
+            href={`https://darksouls.wiki.fextralife.com/${item.name
+              .split(' ')
+              .join('+')}`}
+          >
+            {item.name || ''}
+          </a>
+        </h1>
+        <div className="desc">
+          <Lines text={item.description} />
+        </div>
+      </DescWrap>
+    );
+  }
+};
+
+Description.defaultProps = {
+  item: { name: '' }
 };
 const lineSpacing = '1';
 const DescWrap = style.div`
+
+justify-self: center;
 grid-area: desc;
-padding: 50px;
-padding-bottom: none;
 color: white;
 font-size: 130%;
 line-height: 1.5em;
-margin: 0 auto;
-height: auto;
+display:flex;
+flex-direction:column;
+width:100%;
+h1{
+  margin: 0;
+}
+a{
+  text-decoration: inherit;
+  color: inherit;
+}
 .desc{
   position: relative;
   height: 100%;}
 .desc::before {
   content: "";
   position: absolute;
-  top: 1.5em; left: 0;
+  top: 1.25em; left: 0;
   width: 100%; 
-  height: 80%;
+  height: 100%;
   background-image: url(https://i.imgur.com/PIDpgmL.png);
-  filter: brightness(500%) contrast(50%) ;
-  background-size: calc(28.75em);
+  filter: brightness(300%) contrast(70%) saturate(250%);
+  background-size: calc(28.5em);
 }
 .desc > *{
   position: relative;

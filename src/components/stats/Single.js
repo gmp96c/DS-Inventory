@@ -13,5 +13,8 @@ const SingleWrap = styled.div`
   display: flex;
   justify-content: space-between;
   width: 95%;
+  @media (max-width: 390px) {
+    width: 100%;
+  }
 `;
 export default Single;

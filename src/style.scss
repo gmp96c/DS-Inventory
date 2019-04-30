@@ -11,8 +11,11 @@ p {
 }
 #back {
   margin: 75px;
-  height: calc(100vh-150px);
-  width: calc(100vw-150px);
+}
+@media (max-width: 1500px) {
+  #back {
+    margin: 0;
+  }
 }
 #back::before {
   content: '';
