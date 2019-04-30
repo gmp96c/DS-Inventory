@@ -22,7 +22,15 @@ const Category = ({ type, setCat, category, data }) => {
   };
   return (
     <CategoryWrapper active={category == data[type]}>
-      <img href="#header" className="cat" onClick={setCat} src={images[type]} />
+      <img
+        href="#header"
+        className="cat"
+        onClick={() => {
+          setCat();
+          window.scroll(0, window.innerHeight);
+        }}
+        src={images[type]}
+      />
     </CategoryWrapper>
   );
 };

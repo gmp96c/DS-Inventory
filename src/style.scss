@@ -12,7 +12,27 @@ p {
 #back {
   margin: 75px;
 }
-@media (max-width: 1500px) {
+
+.icon {
+  height: auto;
+  width: 28px;
+}
+@media screen and (max-width: 413px) {
+  p {
+    font-size: 90%;
+  }
+  li {
+    font-size: 90%;
+  }
+  span {
+    font-size: 90%;
+  }
+  .icon {
+    width: 20px;
+  }
+}
+
+@media screen and (max-width: 1500px), screen and (max-height: 840px) {
   #back {
     margin: 0;
   }
@@ -32,8 +52,4 @@ p {
 #back-inside {
   /* This will make it stack on top of the ::before */
   position: relative;
-}
-.icon {
-  height: 28px;
-  width: 28px;
 }

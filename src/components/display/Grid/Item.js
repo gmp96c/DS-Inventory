@@ -6,7 +6,6 @@ const Item = ({ selected, image, setSel }) => {
     <ItemWrapper onClick={setSel} selected={selected}>
       <img
         onClick={() => {
-          console.log('works');
           window.scroll(0, 0);
         }}
         src={image}

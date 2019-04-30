@@ -2,8 +2,13 @@ import React from 'react';
 import styled from 'styled-components';
 function Single({ type, value }) {
   return (
-    <SingleWrap>
-      <span>{type}</span>
+    <SingleWrap
+      className={type
+        .toLowerCase()
+        .split(' ')
+        .join('-')}
+    >
+      <span>{type + ':'}</span>
       <span>{value}</span>
     </SingleWrap>
   );

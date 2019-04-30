@@ -62,8 +62,11 @@ const MainWrapper = styled.main`
     "grid desc"`};
   margin: 0;
   padding: 25px;
+  @media screen and (max-width: 413px) {
+    padding: 15px;
+  }
   overflow: hidden;
-  @media (max-width: 1500px) {
+  @media screen and (max-width: 1500px), screen and (max-height: 840px) {
     height: calc(100vh - 50px);
   }
   @media (max-width: 1100px) {

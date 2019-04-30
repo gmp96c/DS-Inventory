@@ -8,8 +8,16 @@ const Weapon = ({ item }) => {
   return (
     <WeaponWrapper>
       <ul className="container">
-        <Single type="Attack Type:" value={item['atk-type']} />{' '}
-        <Single type="Weapon Type:" value={item['weapon-type']} />
+        <Single
+          className="att-type"
+          type="Attack Type"
+          value={item['atk-type']}
+        />{' '}
+        <Single
+          className="wep-type"
+          type="Weapon Type"
+          value={item['weapon-type']}
+        />
         <li className="section atk">
           <StatTall
             title="ATK"
@@ -115,6 +123,7 @@ const WeaponWrapper = styled.div`
   .additional li:last-of-type {
     border-top: ${border};
   }
+
   .addition {
     grid-area: additional;
     border: ${border};
@@ -126,7 +135,7 @@ const WeaponWrapper = styled.div`
     font-size: 120%;
     padding: 0;
     margin-bottom: 0;
-    margin-top: 0;
+    margin-top: 5px;
     list-style-type: none;
     display: grid;
     justify-content: center;
@@ -139,6 +148,13 @@ const WeaponWrapper = styled.div`
     grid-template-areas:
       'attack-type weapon-type' 'atk reduction' 'bonus req'
       'aux additional';
+    @media screen and (max-width: 413px) {
+      grid-template-rows: 32px 32px auto auto auto;
+
+      grid-template-areas:
+        'attack-type attack-type' 'weapon-type weapon-type' 'atk reduction' 'bonus req'
+        'aux additional';
+    }
     .req {
       grid-area: req;
       border: ${border};
@@ -174,8 +190,12 @@ const WeaponWrapper = styled.div`
     padding: 5px;
     width: 95%;
   }
-  @media (max-width: 390px) {
-    font-size: 100%;
+
+  .weapon-type {
+    grid-area: weapon-type;
+  }
+  .attack-type {
+    grid-area: attack-type;
   }
 `;
 export default Weapon;

@@ -83,7 +83,7 @@ const StatFlat = ({ children, title, statArr, item, vertical }) => {
           return (
             <li className="attribute" key={item.name + el}>
               <span>
-                <img src={imgKey[el]} />
+                <img className="icon" src={imgKey[el]} />
                 {labelReturn(el)}
               </span>
               <span className="value">{item[el]}</span>

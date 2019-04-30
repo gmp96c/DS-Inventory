@@ -28,7 +28,7 @@ const AmmoWrapper = styled.div`
   align-items: center;
   width: 100%;
   font-size: 120%;
-
+  margin-top: 10px;
   div {
     width: 50%;
     ul {
