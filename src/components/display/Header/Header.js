@@ -1,5 +1,5 @@
 import React from 'react';
-import style from 'styled-components';
+import styled from 'styled-components';
 import Category from './Category';
 const Header = ({ setCat, data, category }) => {
   return (
@@ -21,24 +21,21 @@ const Header = ({ setCat, data, category }) => {
   );
 };
 
-const HeaderWrap = style.header`
-display: grid;
-grid-template-columns:repeat(8,10%);
-grid-gap: 10px;
-background-color: rgba(114,114,114,.3);
-padding:10px;
-align-items:center;
-align-content:center;
-justify-content:space-around;
-max-height:10vh;
-@media (max-width: 950px){
+const HeaderWrap = styled.header`
+  display: grid;
+  grid-template-columns: repeat(8, 10%);
+  grid-gap: 10px;
+  background-color: rgba(114, 114, 114, 0.3);
+  padding: 10px;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+  max-height: 10vh;
+  @media (max-width: 950px) {
     height: auto;
     grid-gap: 3px;
-}
-// @media (max-width: 1100px){
-//   height: auto;
-//   grid-gap: 3px;
-// }
+  }
+  box-shadow: inset 0px 0px 11px 3px rgba(0, 0, 0, 1);
 `;
 
 export default Header;

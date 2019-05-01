@@ -28,7 +28,8 @@ const ItemWrapper = styled.div`
   background-position-y: 95%;
   background-position-x: center;
   background-size: 90% auto;
-  border: solid 1px grey;
+  box-shadow: inset 0px 0px 11px 0px rgba(41, 41, 41, 1);
+
   img {
     max-width: 80%;
   }

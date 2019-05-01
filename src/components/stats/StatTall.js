@@ -80,7 +80,7 @@ const StatTall = ({ children, title, statArr, item, vertical }) => {
         <span>{title || ''}</span>
       </span>
       <ul className="stat-section">
-        {statArr.map(el => {
+        {statArr.map((el, i) => {
           {
             if (el != 'empty') {
               return (
@@ -90,7 +90,7 @@ const StatTall = ({ children, title, statArr, item, vertical }) => {
                       ? 'indent'
                       : ''
                   }`}
-                  key={item.name + el}
+                  key={item.name + el + i}
                 >
                   <span>
                     <img className="icon" src={imgKey[el]} />
@@ -101,7 +101,7 @@ const StatTall = ({ children, title, statArr, item, vertical }) => {
               );
             } else {
               return (
-                <li className="empty">
+                <li key={item.name + el + i} className="empty">
                   <span />
                 </li>
               );

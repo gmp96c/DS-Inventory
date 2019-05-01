@@ -15,6 +15,7 @@ const DisplayWrap = styled.div`
   height: inherit;
   grid-area: grid;
   display: grid;
+  height: 100%;
   grid-template-columns: 1fr;
   grid-template-rows: auto 1fr;
 `;

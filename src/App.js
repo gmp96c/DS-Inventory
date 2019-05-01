@@ -49,8 +49,8 @@ const MainWrapper = styled.main`
   height: calc(100vh - 200px);
   background-image: url('https://i.imgur.com/iZAzP6X.jpg');
   background-size: cover;
-  box-shadow: 0px 0px 11px 8px rgba(232, 139, 0, 0.3);
-
+  box-shadow: 0px 0px 11px 4px rgba(232, 139, 0, 0.3);
+  box-shadow: inset 0px 0px 11px 10px rgba(0, 0, 0, 0.5);
   grid-template-columns: 1fr 0.5fr;
   grid-template-rows: 1fr auto;
   grid-gap: 25px;
