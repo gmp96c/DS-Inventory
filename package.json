@@ -4,14 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
     "babel-plugin-styled-components": "^1.10.0",
-    "browser-sync": "^2.26.5",
     "parcel": "^1.12.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scrollbars-custom": "^4.0.0-alpha.12",
-    "simplebar-react": "^1.0.0-alpha.6",
     "styled-components": "^4.2.0"
   },
   "scripts": {

@@ -41,6 +41,7 @@ const DescWrap = styled.div`
   margin-bottom: 10px;
   h1 {
     margin: 0;
+    line-height: 1em;
   }
   a {
     text-decoration: inherit;
