@@ -1,7 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { platform } from 'os';
-const Item = ({ selected, image, setSel }) => {
+const Item = ({ selected, image, setSel, category }) => {
   return (
     <ItemWrapper onClick={setSel} selected={selected}>
       <img

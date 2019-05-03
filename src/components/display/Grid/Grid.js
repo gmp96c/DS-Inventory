@@ -9,8 +9,9 @@ const Grid = ({ category, selected, setSel }) => {
           <Item
             selected={el == selected}
             image={el.image}
-            key={i}
+            key={i + el.image}
             setSel={() => setSel(el)}
+            category={category}
           />
         );
       })}
@@ -18,7 +19,6 @@ const Grid = ({ category, selected, setSel }) => {
   );
 };
 const GridWrapper = styled.div`
-  display: grid;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
   align-content: center;
