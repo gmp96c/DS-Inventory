@@ -30,6 +30,8 @@ const ItemWrapper = styled.div`
   box-shadow: inset 0px 0px 11px 0px rgba(41, 41, 41, 1);
 
   img {
+    cursor: pointer;
+
     max-width: 80%;
   }
 `;

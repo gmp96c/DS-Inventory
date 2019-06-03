@@ -45,6 +45,7 @@ const CategoryWrapper = styled.nav`
   padding: 5px 0;
   /* border: ${props => (props.active ? 'solid orange 3px' : '0')}; */
   .cat{
+    cursor: pointer;
     height: auto;
     max-width:100%;
 
