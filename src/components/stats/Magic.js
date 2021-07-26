@@ -32,13 +32,16 @@ span{
     justify-content: center;
     p{
         flex-grow:1;
-        text-align: center;        
-        margin: 0; 
+        text-align: center;
+        margin: 0;
         padding: 0;
-        
+
     }
 }
-
+img{
+  height: auto;
+width: 28px;
+}
 width: 100%;
 padding-right: 50px;
 align-items:flex-start;
